@@ -1,0 +1,1366 @@
+{
+  "generatedAt": "2026-02-10T06:42:47.517054+00:00",
+  "imagesRoot": "benchmark",
+  "items": [
+    {
+      "id": "geometric/ground_height/pexels-muharrem-alper-428087426-35158315__ls224",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_height",
+      "taskName": "Ground Height",
+      "dir": "benchmark/geometric/ground_height/pexels-muharrem-alper-428087426-35158315__ls224",
+      "original": "benchmark/geometric/ground_height/pexels-muharrem-alper-428087426-35158315__ls224/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_height/pexels-muharrem-alper-428087426-35158315__ls224/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_height/pexels-muharrem-alper-428087426-35158315__ls224/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_height/pexels-muharrem-alper-428087426-35158315__ls224/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_height/pexels-muharrem-alper-428087426-35158315__ls224/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_height/pexels-muharrem-alper-428087426-35158315__ls224/answer.json"
+    },
+    {
+      "id": "geometric/ground_height/alex-tyson-aEDu04_dlW8-unsplash__ls707",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_height",
+      "taskName": "Ground Height",
+      "dir": "benchmark/geometric/ground_height/alex-tyson-aEDu04_dlW8-unsplash__ls707",
+      "original": "benchmark/geometric/ground_height/alex-tyson-aEDu04_dlW8-unsplash__ls707/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_height/alex-tyson-aEDu04_dlW8-unsplash__ls707/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_height/alex-tyson-aEDu04_dlW8-unsplash__ls707/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_height/alex-tyson-aEDu04_dlW8-unsplash__ls707/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_height/alex-tyson-aEDu04_dlW8-unsplash__ls707/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_height/alex-tyson-aEDu04_dlW8-unsplash__ls707/answer.json"
+    },
+    {
+      "id": "geometric/ground_height/pexels-aedrian-18289606__ls58",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_height",
+      "taskName": "Ground Height",
+      "dir": "benchmark/geometric/ground_height/pexels-aedrian-18289606__ls58",
+      "original": "benchmark/geometric/ground_height/pexels-aedrian-18289606__ls58/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_height/pexels-aedrian-18289606__ls58/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_height/pexels-aedrian-18289606__ls58/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_height/pexels-aedrian-18289606__ls58/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_height/pexels-aedrian-18289606__ls58/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_height/pexels-aedrian-18289606__ls58/answer.json"
+    },
+    {
+      "id": "geometric/ground_height/pexels-2150607641-31230742__ls925",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_height",
+      "taskName": "Ground Height",
+      "dir": "benchmark/geometric/ground_height/pexels-2150607641-31230742__ls925",
+      "original": "benchmark/geometric/ground_height/pexels-2150607641-31230742__ls925/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_height/pexels-2150607641-31230742__ls925/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_height/pexels-2150607641-31230742__ls925/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_height/pexels-2150607641-31230742__ls925/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_height/pexels-2150607641-31230742__ls925/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_height/pexels-2150607641-31230742__ls925/answer.json"
+    },
+    {
+      "id": "geometric/ground_height/pexels-aritz-jauregui-608073-7622417__ls79",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_height",
+      "taskName": "Ground Height",
+      "dir": "benchmark/geometric/ground_height/pexels-aritz-jauregui-608073-7622417__ls79",
+      "original": "benchmark/geometric/ground_height/pexels-aritz-jauregui-608073-7622417__ls79/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_height/pexels-aritz-jauregui-608073-7622417__ls79/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_height/pexels-aritz-jauregui-608073-7622417__ls79/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_height/pexels-aritz-jauregui-608073-7622417__ls79/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_height/pexels-aritz-jauregui-608073-7622417__ls79/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_height/pexels-aritz-jauregui-608073-7622417__ls79/answer.json"
+    },
+    {
+      "id": "geometric/ground_angle/pexels-alejandro-de-roa-649065356-28057033__ls65",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_angle",
+      "taskName": "Ground Angle",
+      "dir": "benchmark/geometric/ground_angle/pexels-alejandro-de-roa-649065356-28057033__ls65",
+      "original": "benchmark/geometric/ground_angle/pexels-alejandro-de-roa-649065356-28057033__ls65/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_angle/pexels-alejandro-de-roa-649065356-28057033__ls65/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_angle/pexels-alejandro-de-roa-649065356-28057033__ls65/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_angle/pexels-alejandro-de-roa-649065356-28057033__ls65/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_angle/pexels-alejandro-de-roa-649065356-28057033__ls65/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_angle/pexels-alejandro-de-roa-649065356-28057033__ls65/answer.json"
+    },
+    {
+      "id": "geometric/ground_angle/bridge-4546141_1920__ls478",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_angle",
+      "taskName": "Ground Angle",
+      "dir": "benchmark/geometric/ground_angle/bridge-4546141_1920__ls478",
+      "original": "benchmark/geometric/ground_angle/bridge-4546141_1920__ls478/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_angle/bridge-4546141_1920__ls478/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_angle/bridge-4546141_1920__ls478/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_angle/bridge-4546141_1920__ls478/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_angle/bridge-4546141_1920__ls478/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_angle/bridge-4546141_1920__ls478/answer.json"
+    },
+    {
+      "id": "geometric/ground_angle/nicola-j-walker-nqRw2Fel2rU-unsplash__ls788",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_angle",
+      "taskName": "Ground Angle",
+      "dir": "benchmark/geometric/ground_angle/nicola-j-walker-nqRw2Fel2rU-unsplash__ls788",
+      "original": "benchmark/geometric/ground_angle/nicola-j-walker-nqRw2Fel2rU-unsplash__ls788/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_angle/nicola-j-walker-nqRw2Fel2rU-unsplash__ls788/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_angle/nicola-j-walker-nqRw2Fel2rU-unsplash__ls788/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_angle/nicola-j-walker-nqRw2Fel2rU-unsplash__ls788/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_angle/nicola-j-walker-nqRw2Fel2rU-unsplash__ls788/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_angle/nicola-j-walker-nqRw2Fel2rU-unsplash__ls788/answer.json"
+    },
+    {
+      "id": "geometric/ground_angle/pexels-adrien-olichon-1257089-3137062__ls53",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_angle",
+      "taskName": "Ground Angle",
+      "dir": "benchmark/geometric/ground_angle/pexels-adrien-olichon-1257089-3137062__ls53",
+      "original": "benchmark/geometric/ground_angle/pexels-adrien-olichon-1257089-3137062__ls53/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_angle/pexels-adrien-olichon-1257089-3137062__ls53/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_angle/pexels-adrien-olichon-1257089-3137062__ls53/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_angle/pexels-adrien-olichon-1257089-3137062__ls53/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_angle/pexels-adrien-olichon-1257089-3137062__ls53/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_angle/pexels-adrien-olichon-1257089-3137062__ls53/answer.json"
+    },
+    {
+      "id": "geometric/ground_angle/christian-keybets-QcmYZnRdKfo-unsplash__ls910",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "ground_angle",
+      "taskName": "Ground Angle",
+      "dir": "benchmark/geometric/ground_angle/christian-keybets-QcmYZnRdKfo-unsplash__ls910",
+      "original": "benchmark/geometric/ground_angle/christian-keybets-QcmYZnRdKfo-unsplash__ls910/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/ground_angle/christian-keybets-QcmYZnRdKfo-unsplash__ls910/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/ground_angle/christian-keybets-QcmYZnRdKfo-unsplash__ls910/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/ground_angle/christian-keybets-QcmYZnRdKfo-unsplash__ls910/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/ground_angle/christian-keybets-QcmYZnRdKfo-unsplash__ls910/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/ground_angle/christian-keybets-QcmYZnRdKfo-unsplash__ls910/answer.json"
+    },
+    {
+      "id": "geometric/dimension/ceiling-3803261_1920__ls727",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "dimension",
+      "taskName": "Dimension",
+      "dir": "benchmark/geometric/dimension/ceiling-3803261_1920__ls727",
+      "original": "benchmark/geometric/dimension/ceiling-3803261_1920__ls727/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/dimension/ceiling-3803261_1920__ls727/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/dimension/ceiling-3803261_1920__ls727/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/dimension/ceiling-3803261_1920__ls727/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/dimension/ceiling-3803261_1920__ls727/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/dimension/ceiling-3803261_1920__ls727/answer.json"
+    },
+    {
+      "id": "geometric/dimension/gerrit-vermeulen-l42IbsOdTk8-unsplash__ls520",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "dimension",
+      "taskName": "Dimension",
+      "dir": "benchmark/geometric/dimension/gerrit-vermeulen-l42IbsOdTk8-unsplash__ls520",
+      "original": "benchmark/geometric/dimension/gerrit-vermeulen-l42IbsOdTk8-unsplash__ls520/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/dimension/gerrit-vermeulen-l42IbsOdTk8-unsplash__ls520/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/dimension/gerrit-vermeulen-l42IbsOdTk8-unsplash__ls520/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/dimension/gerrit-vermeulen-l42IbsOdTk8-unsplash__ls520/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/dimension/gerrit-vermeulen-l42IbsOdTk8-unsplash__ls520/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/dimension/gerrit-vermeulen-l42IbsOdTk8-unsplash__ls520/answer.json"
+    },
+    {
+      "id": "geometric/dimension/noppon-meenuch-t-qZt_1CNlc-unsplash__ls409",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "dimension",
+      "taskName": "Dimension",
+      "dir": "benchmark/geometric/dimension/noppon-meenuch-t-qZt_1CNlc-unsplash__ls409",
+      "original": "benchmark/geometric/dimension/noppon-meenuch-t-qZt_1CNlc-unsplash__ls409/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/dimension/noppon-meenuch-t-qZt_1CNlc-unsplash__ls409/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/dimension/noppon-meenuch-t-qZt_1CNlc-unsplash__ls409/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/dimension/noppon-meenuch-t-qZt_1CNlc-unsplash__ls409/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/dimension/noppon-meenuch-t-qZt_1CNlc-unsplash__ls409/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/dimension/noppon-meenuch-t-qZt_1CNlc-unsplash__ls409/answer.json"
+    },
+    {
+      "id": "geometric/dimension/post-2232962_1920__ls865",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "dimension",
+      "taskName": "Dimension",
+      "dir": "benchmark/geometric/dimension/post-2232962_1920__ls865",
+      "original": "benchmark/geometric/dimension/post-2232962_1920__ls865/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/dimension/post-2232962_1920__ls865/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/dimension/post-2232962_1920__ls865/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/dimension/post-2232962_1920__ls865/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/dimension/post-2232962_1920__ls865/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/dimension/post-2232962_1920__ls865/answer.json"
+    },
+    {
+      "id": "geometric/dimension/charlotte-fosdike-ylGC86idw5Q-unsplash__ls487",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "dimension",
+      "taskName": "Dimension",
+      "dir": "benchmark/geometric/dimension/charlotte-fosdike-ylGC86idw5Q-unsplash__ls487",
+      "original": "benchmark/geometric/dimension/charlotte-fosdike-ylGC86idw5Q-unsplash__ls487/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/dimension/charlotte-fosdike-ylGC86idw5Q-unsplash__ls487/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/dimension/charlotte-fosdike-ylGC86idw5Q-unsplash__ls487/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/dimension/charlotte-fosdike-ylGC86idw5Q-unsplash__ls487/3.jpg"
+        },
+        {
+          "label": 4,
+          "src": "benchmark/geometric/dimension/charlotte-fosdike-ylGC86idw5Q-unsplash__ls487/4.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/dimension/charlotte-fosdike-ylGC86idw5Q-unsplash__ls487/answer.json"
+    },
+    {
+      "id": "geometric/relative_distance/pexels-khanshaheb-12475053__ls975",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "relative_distance",
+      "taskName": "Relative Distance",
+      "dir": "benchmark/geometric/relative_distance/pexels-khanshaheb-12475053__ls975",
+      "original": "benchmark/geometric/relative_distance/pexels-khanshaheb-12475053__ls975/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/relative_distance/pexels-khanshaheb-12475053__ls975/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/relative_distance/pexels-khanshaheb-12475053__ls975/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/relative_distance/pexels-khanshaheb-12475053__ls975/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/relative_distance/pexels-khanshaheb-12475053__ls975/answer.json"
+    },
+    {
+      "id": "geometric/relative_distance/pexels-jan-van-der-wolf-11680885-18089867__ls123",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "relative_distance",
+      "taskName": "Relative Distance",
+      "dir": "benchmark/geometric/relative_distance/pexels-jan-van-der-wolf-11680885-18089867__ls123",
+      "original": "benchmark/geometric/relative_distance/pexels-jan-van-der-wolf-11680885-18089867__ls123/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/relative_distance/pexels-jan-van-der-wolf-11680885-18089867__ls123/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/relative_distance/pexels-jan-van-der-wolf-11680885-18089867__ls123/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/relative_distance/pexels-jan-van-der-wolf-11680885-18089867__ls123/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/relative_distance/pexels-jan-van-der-wolf-11680885-18089867__ls123/answer.json"
+    },
+    {
+      "id": "geometric/relative_distance/alexander-gluschenko-HGGXXd9a6f8-unsplash__ls462",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "relative_distance",
+      "taskName": "Relative Distance",
+      "dir": "benchmark/geometric/relative_distance/alexander-gluschenko-HGGXXd9a6f8-unsplash__ls462",
+      "original": "benchmark/geometric/relative_distance/alexander-gluschenko-HGGXXd9a6f8-unsplash__ls462/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/relative_distance/alexander-gluschenko-HGGXXd9a6f8-unsplash__ls462/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/relative_distance/alexander-gluschenko-HGGXXd9a6f8-unsplash__ls462/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/relative_distance/alexander-gluschenko-HGGXXd9a6f8-unsplash__ls462/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/relative_distance/alexander-gluschenko-HGGXXd9a6f8-unsplash__ls462/answer.json"
+    },
+    {
+      "id": "geometric/relative_distance/alexey-kuleshov-H5lVm0oiWds-unsplash__ls235",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "relative_distance",
+      "taskName": "Relative Distance",
+      "dir": "benchmark/geometric/relative_distance/alexey-kuleshov-H5lVm0oiWds-unsplash__ls235",
+      "original": "benchmark/geometric/relative_distance/alexey-kuleshov-H5lVm0oiWds-unsplash__ls235/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/relative_distance/alexey-kuleshov-H5lVm0oiWds-unsplash__ls235/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/relative_distance/alexey-kuleshov-H5lVm0oiWds-unsplash__ls235/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/relative_distance/alexey-kuleshov-H5lVm0oiWds-unsplash__ls235/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/relative_distance/alexey-kuleshov-H5lVm0oiWds-unsplash__ls235/answer.json"
+    },
+    {
+      "id": "geometric/relative_distance/amr-taha-LLyPz6Ing40-unsplash__ls709",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "relative_distance",
+      "taskName": "Relative Distance",
+      "dir": "benchmark/geometric/relative_distance/amr-taha-LLyPz6Ing40-unsplash__ls709",
+      "original": "benchmark/geometric/relative_distance/amr-taha-LLyPz6Ing40-unsplash__ls709/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/relative_distance/amr-taha-LLyPz6Ing40-unsplash__ls709/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/relative_distance/amr-taha-LLyPz6Ing40-unsplash__ls709/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/relative_distance/amr-taha-LLyPz6Ing40-unsplash__ls709/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/relative_distance/amr-taha-LLyPz6Ing40-unsplash__ls709/answer.json"
+    },
+    {
+      "id": "geometric/area/leo_visions-AiYpHYgzghg-unsplash__ls539",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "area",
+      "taskName": "Area",
+      "dir": "benchmark/geometric/area/leo_visions-AiYpHYgzghg-unsplash__ls539",
+      "original": "benchmark/geometric/area/leo_visions-AiYpHYgzghg-unsplash__ls539/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/area/leo_visions-AiYpHYgzghg-unsplash__ls539/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/area/leo_visions-AiYpHYgzghg-unsplash__ls539/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/area/leo_visions-AiYpHYgzghg-unsplash__ls539/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/area/leo_visions-AiYpHYgzghg-unsplash__ls539/answer.json"
+    },
+    {
+      "id": "geometric/area/pexels-samuel-gutierrez-160127152-11156530__ls182",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "area",
+      "taskName": "Area",
+      "dir": "benchmark/geometric/area/pexels-samuel-gutierrez-160127152-11156530__ls182",
+      "original": "benchmark/geometric/area/pexels-samuel-gutierrez-160127152-11156530__ls182/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/area/pexels-samuel-gutierrez-160127152-11156530__ls182/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/area/pexels-samuel-gutierrez-160127152-11156530__ls182/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/area/pexels-samuel-gutierrez-160127152-11156530__ls182/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/area/pexels-samuel-gutierrez-160127152-11156530__ls182/answer.json"
+    },
+    {
+      "id": "geometric/area/benjamin-lehman-7-VdssfezYo-unsplash__ls347",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "area",
+      "taskName": "Area",
+      "dir": "benchmark/geometric/area/benjamin-lehman-7-VdssfezYo-unsplash__ls347",
+      "original": "benchmark/geometric/area/benjamin-lehman-7-VdssfezYo-unsplash__ls347/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/area/benjamin-lehman-7-VdssfezYo-unsplash__ls347/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/area/benjamin-lehman-7-VdssfezYo-unsplash__ls347/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/area/benjamin-lehman-7-VdssfezYo-unsplash__ls347/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/area/benjamin-lehman-7-VdssfezYo-unsplash__ls347/answer.json"
+    },
+    {
+      "id": "geometric/area/luca-upper-uQR1eEZBMYY-unsplash__ls276",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "area",
+      "taskName": "Area",
+      "dir": "benchmark/geometric/area/luca-upper-uQR1eEZBMYY-unsplash__ls276",
+      "original": "benchmark/geometric/area/luca-upper-uQR1eEZBMYY-unsplash__ls276/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/area/luca-upper-uQR1eEZBMYY-unsplash__ls276/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/area/luca-upper-uQR1eEZBMYY-unsplash__ls276/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/area/luca-upper-uQR1eEZBMYY-unsplash__ls276/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/area/luca-upper-uQR1eEZBMYY-unsplash__ls276/answer.json"
+    },
+    {
+      "id": "geometric/area/matheus-cenali-EP2lXf8AKFo-unsplash__ls403",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "area",
+      "taskName": "Area",
+      "dir": "benchmark/geometric/area/matheus-cenali-EP2lXf8AKFo-unsplash__ls403",
+      "original": "benchmark/geometric/area/matheus-cenali-EP2lXf8AKFo-unsplash__ls403/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/area/matheus-cenali-EP2lXf8AKFo-unsplash__ls403/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/area/matheus-cenali-EP2lXf8AKFo-unsplash__ls403/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/area/matheus-cenali-EP2lXf8AKFo-unsplash__ls403/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/area/matheus-cenali-EP2lXf8AKFo-unsplash__ls403/answer.json"
+    },
+    {
+      "id": "geometric/volume/architecture-1165070_1920__ls237",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "volume",
+      "taskName": "Volume",
+      "dir": "benchmark/geometric/volume/architecture-1165070_1920__ls237",
+      "original": "benchmark/geometric/volume/architecture-1165070_1920__ls237/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/volume/architecture-1165070_1920__ls237/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/volume/architecture-1165070_1920__ls237/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/volume/architecture-1165070_1920__ls237/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/volume/architecture-1165070_1920__ls237/answer.json"
+    },
+    {
+      "id": "geometric/volume/aboodi-vesakaran-TMFbIQo3GbU-unsplash__ls336",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "volume",
+      "taskName": "Volume",
+      "dir": "benchmark/geometric/volume/aboodi-vesakaran-TMFbIQo3GbU-unsplash__ls336",
+      "original": "benchmark/geometric/volume/aboodi-vesakaran-TMFbIQo3GbU-unsplash__ls336/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/volume/aboodi-vesakaran-TMFbIQo3GbU-unsplash__ls336/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/volume/aboodi-vesakaran-TMFbIQo3GbU-unsplash__ls336/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/volume/aboodi-vesakaran-TMFbIQo3GbU-unsplash__ls336/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/volume/aboodi-vesakaran-TMFbIQo3GbU-unsplash__ls336/answer.json"
+    },
+    {
+      "id": "geometric/volume/london-4395917_1920__ls544",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "volume",
+      "taskName": "Volume",
+      "dir": "benchmark/geometric/volume/london-4395917_1920__ls544",
+      "original": "benchmark/geometric/volume/london-4395917_1920__ls544/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/volume/london-4395917_1920__ls544/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/volume/london-4395917_1920__ls544/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/volume/london-4395917_1920__ls544/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/volume/london-4395917_1920__ls544/answer.json"
+    },
+    {
+      "id": "geometric/volume/pexels-jan-van-der-wolf-11680885-32239084__ls127",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "volume",
+      "taskName": "Volume",
+      "dir": "benchmark/geometric/volume/pexels-jan-van-der-wolf-11680885-32239084__ls127",
+      "original": "benchmark/geometric/volume/pexels-jan-van-der-wolf-11680885-32239084__ls127/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/volume/pexels-jan-van-der-wolf-11680885-32239084__ls127/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/volume/pexels-jan-van-der-wolf-11680885-32239084__ls127/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/volume/pexels-jan-van-der-wolf-11680885-32239084__ls127/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/volume/pexels-jan-van-der-wolf-11680885-32239084__ls127/answer.json"
+    },
+    {
+      "id": "geometric/volume/usa-5043071_1920__ls691",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "volume",
+      "taskName": "Volume",
+      "dir": "benchmark/geometric/volume/usa-5043071_1920__ls691",
+      "original": "benchmark/geometric/volume/usa-5043071_1920__ls691/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/volume/usa-5043071_1920__ls691/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/volume/usa-5043071_1920__ls691/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/volume/usa-5043071_1920__ls691/3.jpg"
+        }
+      ],
+      "answer": "benchmark/geometric/volume/usa-5043071_1920__ls691/answer.json"
+    },
+    {
+      "id": "geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "multi_view_geometric",
+      "taskName": "Multi-View (Geo.)",
+      "dir": "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151",
+      "original": "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "relative_distance",
+      "originals": [
+        "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151/original1.jpg",
+        "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151/0.jpg"
+      },
+      "answer": "benchmark/geometric/multi_view_geometric/bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607__ls1151/answer.json"
+    },
+    {
+      "id": "geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "multi_view_geometric",
+      "taskName": "Multi-View (Geo.)",
+      "dir": "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075",
+      "original": "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "relative_distance",
+      "originals": [
+        "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075/original1.jpg",
+        "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075/0.jpg"
+      },
+      "answer": "benchmark/geometric/multi_view_geometric/steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617__ls1075/answer.json"
+    },
+    {
+      "id": "geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "multi_view_geometric",
+      "taskName": "Multi-View (Geo.)",
+      "dir": "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139",
+      "original": "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "relative_distance",
+      "originals": [
+        "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139/original1.jpg",
+        "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139/0.jpg"
+      },
+      "answer": "benchmark/geometric/multi_view_geometric/bridge_pexels-robertkso-13199220_riley-dic_XqAdqJI-unsplash__ls1139/answer.json"
+    },
+    {
+      "id": "geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "multi_view_geometric",
+      "taskName": "Multi-View (Geo.)",
+      "dir": "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248",
+      "original": "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "relative_distance",
+      "originals": [
+        "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248/original1.jpg",
+        "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248/0.jpg"
+      },
+      "answer": "benchmark/geometric/multi_view_geometric/steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash__ls1248/answer.json"
+    },
+    {
+      "id": "geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133",
+      "categorySlug": "geometric",
+      "categoryName": "Geometric",
+      "taskSlug": "multi_view_geometric",
+      "taskName": "Multi-View (Geo.)",
+      "dir": "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133",
+      "original": "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "relative_distance",
+      "originals": [
+        "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133/original1.jpg",
+        "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133/0.jpg"
+      },
+      "answer": "benchmark/geometric/multi_view_geometric/bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628__ls1133/answer.json"
+    },
+    {
+      "id": "topological/hop_distance/pexels-adrien-olichon-1257089-3137080__ls55",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "hop_distance",
+      "taskName": "Hop Distance",
+      "dir": "benchmark/topological/hop_distance/pexels-adrien-olichon-1257089-3137080__ls55",
+      "original": "benchmark/topological/hop_distance/pexels-adrien-olichon-1257089-3137080__ls55/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/hop_distance/pexels-adrien-olichon-1257089-3137080__ls55/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/hop_distance/pexels-adrien-olichon-1257089-3137080__ls55/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/hop_distance/pexels-adrien-olichon-1257089-3137080__ls55/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/hop_distance/pexels-adrien-olichon-1257089-3137080__ls55/answer.json"
+    },
+    {
+      "id": "topological/hop_distance/pexels-gokhanbaytekin-16206172__ls111",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "hop_distance",
+      "taskName": "Hop Distance",
+      "dir": "benchmark/topological/hop_distance/pexels-gokhanbaytekin-16206172__ls111",
+      "original": "benchmark/topological/hop_distance/pexels-gokhanbaytekin-16206172__ls111/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/hop_distance/pexels-gokhanbaytekin-16206172__ls111/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/hop_distance/pexels-gokhanbaytekin-16206172__ls111/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/hop_distance/pexels-gokhanbaytekin-16206172__ls111/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/hop_distance/pexels-gokhanbaytekin-16206172__ls111/answer.json"
+    },
+    {
+      "id": "topological/hop_distance/architecture-1853520_1920__ls238",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "hop_distance",
+      "taskName": "Hop Distance",
+      "dir": "benchmark/topological/hop_distance/architecture-1853520_1920__ls238",
+      "original": "benchmark/topological/hop_distance/architecture-1853520_1920__ls238/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/hop_distance/architecture-1853520_1920__ls238/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/hop_distance/architecture-1853520_1920__ls238/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/hop_distance/architecture-1853520_1920__ls238/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/hop_distance/architecture-1853520_1920__ls238/answer.json"
+    },
+    {
+      "id": "topological/hop_distance/mubaris-nendukanni-XfeEQNDLHBA-unsplash__ls407",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "hop_distance",
+      "taskName": "Hop Distance",
+      "dir": "benchmark/topological/hop_distance/mubaris-nendukanni-XfeEQNDLHBA-unsplash__ls407",
+      "original": "benchmark/topological/hop_distance/mubaris-nendukanni-XfeEQNDLHBA-unsplash__ls407/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/hop_distance/mubaris-nendukanni-XfeEQNDLHBA-unsplash__ls407/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/hop_distance/mubaris-nendukanni-XfeEQNDLHBA-unsplash__ls407/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/hop_distance/mubaris-nendukanni-XfeEQNDLHBA-unsplash__ls407/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/hop_distance/mubaris-nendukanni-XfeEQNDLHBA-unsplash__ls407/answer.json"
+    },
+    {
+      "id": "topological/hop_distance/adela-monczkova-Nwfpxalvpgg-unsplash__ls337",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "hop_distance",
+      "taskName": "Hop Distance",
+      "dir": "benchmark/topological/hop_distance/adela-monczkova-Nwfpxalvpgg-unsplash__ls337",
+      "original": "benchmark/topological/hop_distance/adela-monczkova-Nwfpxalvpgg-unsplash__ls337/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/hop_distance/adela-monczkova-Nwfpxalvpgg-unsplash__ls337/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/hop_distance/adela-monczkova-Nwfpxalvpgg-unsplash__ls337/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/hop_distance/adela-monczkova-Nwfpxalvpgg-unsplash__ls337/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/hop_distance/adela-monczkova-Nwfpxalvpgg-unsplash__ls337/answer.json"
+    },
+    {
+      "id": "topological/cycle_length/bridge-3024773_1920__ls723",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "cycle_length",
+      "taskName": "Cycle Length",
+      "dir": "benchmark/topological/cycle_length/bridge-3024773_1920__ls723",
+      "original": "benchmark/topological/cycle_length/bridge-3024773_1920__ls723/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/cycle_length/bridge-3024773_1920__ls723/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/cycle_length/bridge-3024773_1920__ls723/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/cycle_length/bridge-3024773_1920__ls723/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/cycle_length/bridge-3024773_1920__ls723/answer.json"
+    },
+    {
+      "id": "topological/cycle_length/architecture-4179270_1920__ls31",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "cycle_length",
+      "taskName": "Cycle Length",
+      "dir": "benchmark/topological/cycle_length/architecture-4179270_1920__ls31",
+      "original": "benchmark/topological/cycle_length/architecture-4179270_1920__ls31/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/cycle_length/architecture-4179270_1920__ls31/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/cycle_length/architecture-4179270_1920__ls31/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/cycle_length/architecture-4179270_1920__ls31/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/cycle_length/architecture-4179270_1920__ls31/answer.json"
+    },
+    {
+      "id": "topological/cycle_length/christian-bass-tgTm7J0yqb4-unsplash__ls734",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "cycle_length",
+      "taskName": "Cycle Length",
+      "dir": "benchmark/topological/cycle_length/christian-bass-tgTm7J0yqb4-unsplash__ls734",
+      "original": "benchmark/topological/cycle_length/christian-bass-tgTm7J0yqb4-unsplash__ls734/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/cycle_length/christian-bass-tgTm7J0yqb4-unsplash__ls734/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/cycle_length/christian-bass-tgTm7J0yqb4-unsplash__ls734/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/cycle_length/christian-bass-tgTm7J0yqb4-unsplash__ls734/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/cycle_length/christian-bass-tgTm7J0yqb4-unsplash__ls734/answer.json"
+    },
+    {
+      "id": "topological/cycle_length/pexels-brett-sayles-9460107__ls89",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "cycle_length",
+      "taskName": "Cycle Length",
+      "dir": "benchmark/topological/cycle_length/pexels-brett-sayles-9460107__ls89",
+      "original": "benchmark/topological/cycle_length/pexels-brett-sayles-9460107__ls89/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/cycle_length/pexels-brett-sayles-9460107__ls89/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/cycle_length/pexels-brett-sayles-9460107__ls89/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/cycle_length/pexels-brett-sayles-9460107__ls89/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/cycle_length/pexels-brett-sayles-9460107__ls89/answer.json"
+    },
+    {
+      "id": "topological/cycle_length/alex-kalinin-c17TYhE9IRs-unsplash__ls232",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "cycle_length",
+      "taskName": "Cycle Length",
+      "dir": "benchmark/topological/cycle_length/alex-kalinin-c17TYhE9IRs-unsplash__ls232",
+      "original": "benchmark/topological/cycle_length/alex-kalinin-c17TYhE9IRs-unsplash__ls232/original.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/cycle_length/alex-kalinin-c17TYhE9IRs-unsplash__ls232/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/cycle_length/alex-kalinin-c17TYhE9IRs-unsplash__ls232/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/cycle_length/alex-kalinin-c17TYhE9IRs-unsplash__ls232/3.jpg"
+        }
+      ],
+      "answer": "benchmark/topological/cycle_length/alex-kalinin-c17TYhE9IRs-unsplash__ls232/answer.json"
+    },
+    {
+      "id": "topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "multi_view_topological",
+      "taskName": "Multi-View (Topo.)",
+      "dir": "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118",
+      "original": "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "cycle_length",
+      "originals": [
+        "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118/original1.jpg",
+        "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118/0.jpg"
+      },
+      "answer": "benchmark/topological/multi_view_topological/steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332__ls1118/answer.json"
+    },
+    {
+      "id": "topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "multi_view_topological",
+      "taskName": "Multi-View (Topo.)",
+      "dir": "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093",
+      "original": "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "hop_distance",
+      "originals": [
+        "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093/original1.jpg",
+        "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093/0.jpg"
+      },
+      "answer": "benchmark/topological/multi_view_topological/steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash__ls1093/answer.json"
+    },
+    {
+      "id": "topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "multi_view_topological",
+      "taskName": "Multi-View (Topo.)",
+      "dir": "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127",
+      "original": "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "hop_distance",
+      "originals": [
+        "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127/original1.jpg",
+        "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127/0.jpg"
+      },
+      "answer": "benchmark/topological/multi_view_topological/steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash__ls1127/answer.json"
+    },
+    {
+      "id": "topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "multi_view_topological",
+      "taskName": "Multi-View (Topo.)",
+      "dir": "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109",
+      "original": "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "cycle_length",
+      "originals": [
+        "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109/original1.jpg",
+        "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109/0.jpg"
+      },
+      "answer": "benchmark/topological/multi_view_topological/steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413__ls1109/answer.json"
+    },
+    {
+      "id": "topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219",
+      "categorySlug": "topological",
+      "categoryName": "Topological",
+      "taskSlug": "multi_view_topological",
+      "taskName": "Multi-View (Topo.)",
+      "dir": "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219",
+      "original": "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219/original1.jpg",
+      "options": [
+        {
+          "label": 1,
+          "src": "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219/1.jpg"
+        },
+        {
+          "label": 2,
+          "src": "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219/2.jpg"
+        },
+        {
+          "label": 3,
+          "src": "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219/3.jpg"
+        }
+      ],
+      "isMultiView": true,
+      "baseTaskSlug": "cycle_length",
+      "originals": [
+        "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219/original1.jpg",
+        "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219/original2.jpg"
+      ],
+      "reference": {
+        "label": 0,
+        "src": "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219/0.jpg"
+      },
+      "answer": "benchmark/topological/multi_view_topological/pipeline_pexels-sonny-vermeer-505472791-17728782_pexels-sonny-vermeer-505472791-17728787__ls1219/answer.json"
+    }
+  ]
+}

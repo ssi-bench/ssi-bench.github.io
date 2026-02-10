@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-01-09T07:30:41.381711+00:00",
+  "answer": [
+    3,
+    1,
+    2
+  ],
+  "optionToOriginalMember": [
+    2,
+    3,
+    1
+  ],
+  "source": {
+    "labelStudioTaskId": 238
+  },
+  "taxonomy": {
+    "categorySlug": "topological",
+    "taskSlug": "hop_distance",
+    "scene": "steel"
+  },
+  "render": {
+    "prefix": "Group",
+    "position": "md",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "yellow",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0,
+    "beautify": false
+  }
+}

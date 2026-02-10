@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-01-09T11:42:50.471520+00:00",
+  "answer": [
+    2,
+    3,
+    1
+  ],
+  "optionToOriginalMember": [
+    3,
+    1,
+    2
+  ],
+  "source": {
+    "labelStudioTaskId": 544
+  },
+  "taxonomy": {
+    "categorySlug": "geometric",
+    "taskSlug": "volume",
+    "scene": "bridge"
+  },
+  "render": {
+    "prefix": "Group",
+    "position": "mu",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "yellow",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0,
+    "beautify": true,
+    "beautifyAreaScale": 1.0
+  }
+}

@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Local-only dev config (contains absolute paths / machine info)
+dataset_sync.yaml
+
+# Secrets / credentials (never commit)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+*.jks
+*.keystore
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+*_secret*
+*secret*
+*secrets*
+
+# Python envs
+.venv/
+venv/
+env/
+.python-version
+
+# Data artifacts (regeneratable / local)
+data/*.xlsx
+data/*.csv
+
+# Misc
+*.swp
+*.swo
+*.bak
+
+README.md

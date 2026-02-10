@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-01-12T05:51:00.727976+00:00",
+  "answer": [
+    3,
+    1,
+    2
+  ],
+  "optionToOriginalMember": [
+    2,
+    3,
+    1
+  ],
+  "memberEqualities": [],
+  "source": {
+    "labelStudioTaskId": 1248
+  },
+  "taxonomy": {
+    "categorySlug": "geometric",
+    "taskSlug": "relative_distance",
+    "scene": "steel",
+    "multi_view": true
+  },
+  "render": {
+    "prefix": "Member",
+    "position": "mu",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "yellow",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0
+  }
+}

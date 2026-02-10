@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-30T17:33:11.317215+00:00",
+  "answer": [
+    3,
+    4,
+    1,
+    2
+  ],
+  "optionToOriginalMember": [
+    4,
+    3,
+    2,
+    1
+  ],
+  "source": {
+    "labelStudioTaskId": 409
+  },
+  "taxonomy": {
+    "categorySlug": "geometric",
+    "taskSlug": "dimension",
+    "scene": "steel"
+  },
+  "render": {
+    "prefix": "Member",
+    "position": "mu",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "yellow",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0,
+    "beautify": false
+  }
+}

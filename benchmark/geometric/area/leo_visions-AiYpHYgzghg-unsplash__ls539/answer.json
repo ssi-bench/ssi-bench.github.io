@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-01-09T11:42:49.739337+00:00",
+  "answer": [
+    1,
+    2,
+    3
+  ],
+  "optionToOriginalMember": [
+    2,
+    1,
+    3
+  ],
+  "source": {
+    "labelStudioTaskId": 539
+  },
+  "taxonomy": {
+    "categorySlug": "geometric",
+    "taskSlug": "area",
+    "scene": "bridge"
+  },
+  "render": {
+    "prefix": "Group",
+    "position": "mu",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "cyan",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0,
+    "beautify": true,
+    "beautifyAreaScale": 1.0
+  }
+}

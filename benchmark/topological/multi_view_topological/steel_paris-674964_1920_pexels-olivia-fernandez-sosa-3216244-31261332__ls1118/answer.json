@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-01-11T07:13:47.572026+00:00",
+  "answer": [
+    3,
+    1,
+    2
+  ],
+  "optionToOriginalMember": [
+    2,
+    3,
+    1
+  ],
+  "memberEqualities": [],
+  "source": {
+    "labelStudioTaskId": 1118
+  },
+  "taxonomy": {
+    "categorySlug": "topological",
+    "taskSlug": "cycle_length",
+    "scene": "steel",
+    "multi_view": true
+  },
+  "render": {
+    "prefix": "Member",
+    "position": "md",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "magenta",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0
+  }
+}

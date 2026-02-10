@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-01-09T11:58:46.272831+00:00",
+  "answer": [
+    2,
+    1,
+    3
+  ],
+  "optionToOriginalMember": [
+    2,
+    1,
+    3
+  ],
+  "source": {
+    "labelStudioTaskId": 723
+  },
+  "taxonomy": {
+    "categorySlug": "topological",
+    "taskSlug": "cycle_length",
+    "scene": "timber"
+  },
+  "render": {
+    "prefix": "Group",
+    "position": "mu",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "yellow",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0,
+    "beautify": false,
+    "beautifyAreaScale": 1.0
+  }
+}

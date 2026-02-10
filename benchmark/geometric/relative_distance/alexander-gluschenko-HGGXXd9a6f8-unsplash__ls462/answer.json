@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-01-09T11:42:30.451698+00:00",
+  "answer": [
+    1,
+    3,
+    2
+  ],
+  "optionToOriginalMember": [
+    1,
+    3,
+    2
+  ],
+  "source": {
+    "labelStudioTaskId": 462
+  },
+  "taxonomy": {
+    "categorySlug": "geometric",
+    "taskSlug": "relative_distance",
+    "scene": "bridge"
+  },
+  "render": {
+    "prefix": "Group",
+    "position": "mu",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "yellow",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0,
+    "beautify": false,
+    "beautifyAreaScale": 1.0
+  }
+}

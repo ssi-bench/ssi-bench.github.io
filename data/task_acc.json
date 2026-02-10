@@ -1,0 +1,716 @@
+{
+  "generatedAt": "2026-02-10T06:41:58.072582+00:00",
+  "source": "data/task_acc.xlsx",
+  "sheet": "Sheet1",
+  "columns": [
+    {
+      "key": "geometric__ground_height",
+      "groupName": "Geometric",
+      "groupSlug": "geometric",
+      "taskName": "Ground Height",
+      "taskSlug": "ground_height",
+      "sampleCount": 105
+    },
+    {
+      "key": "geometric__ground_angle",
+      "groupName": "Geometric",
+      "groupSlug": "geometric",
+      "taskName": "Ground Angle",
+      "taskSlug": "ground_angle",
+      "sampleCount": 101
+    },
+    {
+      "key": "geometric__dimension",
+      "groupName": "Geometric",
+      "groupSlug": "geometric",
+      "taskName": "Dimension",
+      "taskSlug": "dimension",
+      "sampleCount": 100
+    },
+    {
+      "key": "geometric__relative_distance",
+      "groupName": "Geometric",
+      "groupSlug": "geometric",
+      "taskName": "Relative Distance",
+      "taskSlug": "relative_distance",
+      "sampleCount": 103
+    },
+    {
+      "key": "geometric__area",
+      "groupName": "Geometric",
+      "groupSlug": "geometric",
+      "taskName": "Area",
+      "taskSlug": "area",
+      "sampleCount": 100
+    },
+    {
+      "key": "geometric__volume",
+      "groupName": "Geometric",
+      "groupSlug": "geometric",
+      "taskName": "Volume",
+      "taskSlug": "volume",
+      "sampleCount": 97
+    },
+    {
+      "key": "geometric__multi_view",
+      "groupName": "Geometric",
+      "groupSlug": "geometric",
+      "taskName": "Multi-View",
+      "taskSlug": "multi_view",
+      "sampleCount": 106
+    },
+    {
+      "key": "topological__hop_distance",
+      "groupName": "Topological",
+      "groupSlug": "topological",
+      "taskName": "Hop Distance",
+      "taskSlug": "hop_distance",
+      "sampleCount": 94
+    },
+    {
+      "key": "topological__cycle_length",
+      "groupName": "Topological",
+      "groupSlug": "topological",
+      "taskName": "Cycle Length",
+      "taskSlug": "cycle_length",
+      "sampleCount": 98
+    },
+    {
+      "key": "topological__multi_view",
+      "groupName": "Topological",
+      "groupSlug": "topological",
+      "taskName": "Multi-View",
+      "taskSlug": "multi_view",
+      "sampleCount": 96
+    }
+  ],
+  "models": [
+    {
+      "group": "Proprietary",
+      "model": "Gemini-3-Pro",
+      "paramsB": null,
+      "releaseDate": "2025-11-01",
+      "average": 29.5,
+      "scores": {
+        "geometric__ground_height": 25.71,
+        "geometric__ground_angle": 37.62,
+        "geometric__dimension": 28.0,
+        "geometric__relative_distance": 33.01,
+        "geometric__area": 24.0,
+        "geometric__volume": 27.84,
+        "geometric__multi_view": 31.13,
+        "topological__hop_distance": 35.11,
+        "topological__cycle_length": 30.61,
+        "topological__multi_view": 21.88
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "Gemini-3-Flash",
+      "paramsB": null,
+      "releaseDate": "2025-12-01",
+      "average": 33.6,
+      "scores": {
+        "geometric__ground_height": 37.14,
+        "geometric__ground_angle": 38.61,
+        "geometric__dimension": 35.0,
+        "geometric__relative_distance": 41.75,
+        "geometric__area": 27.0,
+        "geometric__volume": 25.77,
+        "geometric__multi_view": 33.96,
+        "topological__hop_distance": 32.98,
+        "topological__cycle_length": 34.69,
+        "topological__multi_view": 28.13
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "Gemini-2.5-Pro",
+      "paramsB": null,
+      "releaseDate": "2025-03-01",
+      "average": 26.1,
+      "scores": {
+        "geometric__ground_height": 20.95,
+        "geometric__ground_angle": 31.68,
+        "geometric__dimension": 23.0,
+        "geometric__relative_distance": 33.98,
+        "geometric__area": 19.0,
+        "geometric__volume": 22.68,
+        "geometric__multi_view": 31.13,
+        "topological__hop_distance": 22.34,
+        "topological__cycle_length": 27.55,
+        "topological__multi_view": 28.13
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "Gemini-2.5-Flash",
+      "paramsB": null,
+      "releaseDate": "2025-06-01",
+      "average": 22.3,
+      "scores": {
+        "geometric__ground_height": 20.0,
+        "geometric__ground_angle": 24.75,
+        "geometric__dimension": 21.0,
+        "geometric__relative_distance": 21.36,
+        "geometric__area": 23.0,
+        "geometric__volume": 12.37,
+        "geometric__multi_view": 26.42,
+        "topological__hop_distance": 26.6,
+        "topological__cycle_length": 24.49,
+        "topological__multi_view": 22.92
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "GPT-5.2",
+      "paramsB": null,
+      "releaseDate": "2025-12-01",
+      "average": 29.1,
+      "scores": {
+        "geometric__ground_height": 29.52,
+        "geometric__ground_angle": 30.69,
+        "geometric__dimension": 32.0,
+        "geometric__relative_distance": 41.75,
+        "geometric__area": 30.0,
+        "geometric__volume": 21.65,
+        "geometric__multi_view": 29.25,
+        "topological__hop_distance": 24.47,
+        "topological__cycle_length": 30.61,
+        "topological__multi_view": 19.79
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "GPT-5 mini",
+      "paramsB": null,
+      "releaseDate": "2025-08-01",
+      "average": 25.9,
+      "scores": {
+        "geometric__ground_height": 19.05,
+        "geometric__ground_angle": 30.69,
+        "geometric__dimension": 29.0,
+        "geometric__relative_distance": 43.69,
+        "geometric__area": 26.0,
+        "geometric__volume": 17.53,
+        "geometric__multi_view": 20.75,
+        "topological__hop_distance": 21.28,
+        "topological__cycle_length": 19.39,
+        "topological__multi_view": 31.25
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "GPT-4.1",
+      "paramsB": null,
+      "releaseDate": "2025-04-01",
+      "average": 22.4,
+      "scores": {
+        "geometric__ground_height": 17.14,
+        "geometric__ground_angle": 16.83,
+        "geometric__dimension": 25.0,
+        "geometric__relative_distance": 21.36,
+        "geometric__area": 30.0,
+        "geometric__volume": 22.68,
+        "geometric__multi_view": 16.04,
+        "topological__hop_distance": 23.4,
+        "topological__cycle_length": 25.51,
+        "topological__multi_view": 27.08
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "GPT-4o",
+      "paramsB": null,
+      "releaseDate": "2024-05-01",
+      "average": 22.6,
+      "scores": {
+        "geometric__ground_height": 19.05,
+        "geometric__ground_angle": 20.79,
+        "geometric__dimension": 20.0,
+        "geometric__relative_distance": 26.21,
+        "geometric__area": 29.0,
+        "geometric__volume": 26.8,
+        "geometric__multi_view": 17.92,
+        "topological__hop_distance": 17.02,
+        "topological__cycle_length": 22.45,
+        "topological__multi_view": 27.08
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "Claude-Sonnet-4.5",
+      "paramsB": null,
+      "releaseDate": "2025-09-01",
+      "average": 19.9,
+      "scores": {
+        "geometric__ground_height": 8.57,
+        "geometric__ground_angle": 12.87,
+        "geometric__dimension": 16.0,
+        "geometric__relative_distance": 30.1,
+        "geometric__area": 21.0,
+        "geometric__volume": 19.59,
+        "geometric__multi_view": 24.53,
+        "topological__hop_distance": 20.21,
+        "topological__cycle_length": 19.39,
+        "topological__multi_view": 27.08
+      }
+    },
+    {
+      "group": "Proprietary",
+      "model": "Seed-1.8",
+      "paramsB": null,
+      "releaseDate": "2025-12-01",
+      "average": 25.9,
+      "scores": {
+        "geometric__ground_height": 19.05,
+        "geometric__ground_angle": 24.75,
+        "geometric__dimension": 22.0,
+        "geometric__relative_distance": 37.86,
+        "geometric__area": 19.0,
+        "geometric__volume": 24.74,
+        "geometric__multi_view": 24.53,
+        "topological__hop_distance": 24.47,
+        "topological__cycle_length": 33.67,
+        "topological__multi_view": 29.17
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "GLM-4.6V",
+      "paramsB": 108.0,
+      "releaseDate": "2025-12-01",
+      "average": 22.2,
+      "scores": {
+        "geometric__ground_height": 9.52,
+        "geometric__ground_angle": 21.78,
+        "geometric__dimension": 16.0,
+        "geometric__relative_distance": 30.1,
+        "geometric__area": 28.0,
+        "geometric__volume": 21.65,
+        "geometric__multi_view": 26.42,
+        "topological__hop_distance": 25.53,
+        "topological__cycle_length": 20.41,
+        "topological__multi_view": 22.92
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "GLM-4.6V-Flash",
+      "paramsB": 10.0,
+      "releaseDate": null,
+      "average": 21.1,
+      "scores": {
+        "geometric__ground_height": 13.33,
+        "geometric__ground_angle": 16.83,
+        "geometric__dimension": 12.0,
+        "geometric__relative_distance": 25.24,
+        "geometric__area": 26.0,
+        "geometric__volume": 25.77,
+        "geometric__multi_view": 16.98,
+        "topological__hop_distance": 26.6,
+        "topological__cycle_length": 21.43,
+        "topological__multi_view": 28.13
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "GLM-4.5V",
+      "paramsB": 108.0,
+      "releaseDate": "2025-08-01",
+      "average": 21.4,
+      "scores": {
+        "geometric__ground_height": 17.14,
+        "geometric__ground_angle": 23.76,
+        "geometric__dimension": 17.0,
+        "geometric__relative_distance": 28.16,
+        "geometric__area": 25.0,
+        "geometric__volume": 15.46,
+        "geometric__multi_view": 19.81,
+        "topological__hop_distance": 20.21,
+        "topological__cycle_length": 23.47,
+        "topological__multi_view": 23.96
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Qwen3-VL-235B-A22B",
+      "paramsB": 236.0,
+      "releaseDate": "2025-09-01",
+      "average": 21.9,
+      "scores": {
+        "geometric__ground_height": 13.33,
+        "geometric__ground_angle": 16.83,
+        "geometric__dimension": 22.0,
+        "geometric__relative_distance": 26.21,
+        "geometric__area": 26.0,
+        "geometric__volume": 20.62,
+        "geometric__multi_view": 21.7,
+        "topological__hop_distance": 29.79,
+        "topological__cycle_length": 19.39,
+        "topological__multi_view": 23.96
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Qwen3-VL-30B-A3B",
+      "paramsB": 31.0,
+      "releaseDate": null,
+      "average": 20.6,
+      "scores": {
+        "geometric__ground_height": 5.71,
+        "geometric__ground_angle": 7.92,
+        "geometric__dimension": 12.0,
+        "geometric__relative_distance": 28.16,
+        "geometric__area": 29.0,
+        "geometric__volume": 17.53,
+        "geometric__multi_view": 22.64,
+        "topological__hop_distance": 28.72,
+        "topological__cycle_length": 28.57,
+        "topological__multi_view": 27.08
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Qwen3-VL-8B",
+      "paramsB": 9.0,
+      "releaseDate": null,
+      "average": 19.2,
+      "scores": {
+        "geometric__ground_height": 9.52,
+        "geometric__ground_angle": 5.94,
+        "geometric__dimension": 12.0,
+        "geometric__relative_distance": 28.16,
+        "geometric__area": 18.0,
+        "geometric__volume": 18.56,
+        "geometric__multi_view": 18.87,
+        "topological__hop_distance": 24.47,
+        "topological__cycle_length": 29.59,
+        "topological__multi_view": 28.13
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Qwen3-VL-4B",
+      "paramsB": 4.0,
+      "releaseDate": null,
+      "average": 20.7,
+      "scores": {
+        "geometric__ground_height": 6.67,
+        "geometric__ground_angle": 7.92,
+        "geometric__dimension": 11.0,
+        "geometric__relative_distance": 33.01,
+        "geometric__area": 29.0,
+        "geometric__volume": 16.49,
+        "geometric__multi_view": 20.75,
+        "topological__hop_distance": 25.53,
+        "topological__cycle_length": 30.61,
+        "topological__multi_view": 27.08
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Qwen3-VL-2B",
+      "paramsB": 2.0,
+      "releaseDate": null,
+      "average": 19.2,
+      "scores": {
+        "geometric__ground_height": 5.71,
+        "geometric__ground_angle": 7.92,
+        "geometric__dimension": 11.0,
+        "geometric__relative_distance": 28.16,
+        "geometric__area": 35.0,
+        "geometric__volume": 16.49,
+        "geometric__multi_view": 18.87,
+        "topological__hop_distance": 28.72,
+        "topological__cycle_length": 29.59,
+        "topological__multi_view": 11.46
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "InternVL3.5-241B-A28B",
+      "paramsB": 241.0,
+      "releaseDate": "2025-08-01",
+      "average": 18.3,
+      "scores": {
+        "geometric__ground_height": 3.81,
+        "geometric__ground_angle": 6.93,
+        "geometric__dimension": 6.0,
+        "geometric__relative_distance": 28.16,
+        "geometric__area": 25.0,
+        "geometric__volume": 16.49,
+        "geometric__multi_view": 21.7,
+        "topological__hop_distance": 28.72,
+        "topological__cycle_length": 23.47,
+        "topological__multi_view": 23.96
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "InternVL3.5-30B-A3B",
+      "paramsB": 31.0,
+      "releaseDate": null,
+      "average": 20.7,
+      "scores": {
+        "geometric__ground_height": 6.67,
+        "geometric__ground_angle": 7.92,
+        "geometric__dimension": 12.0,
+        "geometric__relative_distance": 30.1,
+        "geometric__area": 32.0,
+        "geometric__volume": 16.49,
+        "geometric__multi_view": 18.87,
+        "topological__hop_distance": 27.66,
+        "topological__cycle_length": 28.57,
+        "topological__multi_view": 28.13
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "InternVL3.5-38B",
+      "paramsB": 38.0,
+      "releaseDate": null,
+      "average": 19.0,
+      "scores": {
+        "geometric__ground_height": 6.67,
+        "geometric__ground_angle": 5.94,
+        "geometric__dimension": 16.0,
+        "geometric__relative_distance": 22.33,
+        "geometric__area": 29.0,
+        "geometric__volume": 15.46,
+        "geometric__multi_view": 22.64,
+        "topological__hop_distance": 27.66,
+        "topological__cycle_length": 18.37,
+        "topological__multi_view": 27.08
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "InternVL3.5-14B",
+      "paramsB": 15.0,
+      "releaseDate": null,
+      "average": 17.9,
+      "scores": {
+        "geometric__ground_height": 5.71,
+        "geometric__ground_angle": 7.92,
+        "geometric__dimension": 11.0,
+        "geometric__relative_distance": 16.5,
+        "geometric__area": 29.0,
+        "geometric__volume": 17.53,
+        "geometric__multi_view": 23.58,
+        "topological__hop_distance": 19.15,
+        "topological__cycle_length": 19.39,
+        "topological__multi_view": 30.21
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "InternVL3.5-8B",
+      "paramsB": 9.0,
+      "releaseDate": null,
+      "average": 20.2,
+      "scores": {
+        "geometric__ground_height": 5.71,
+        "geometric__ground_angle": 6.93,
+        "geometric__dimension": 10.0,
+        "geometric__relative_distance": 24.27,
+        "geometric__area": 33.0,
+        "geometric__volume": 16.49,
+        "geometric__multi_view": 24.53,
+        "topological__hop_distance": 25.53,
+        "topological__cycle_length": 28.57,
+        "topological__multi_view": 28.13
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "InternVL3.5-4B",
+      "paramsB": 5.0,
+      "releaseDate": null,
+      "average": 16.8,
+      "scores": {
+        "geometric__ground_height": 8.57,
+        "geometric__ground_angle": 6.93,
+        "geometric__dimension": 7.0,
+        "geometric__relative_distance": 27.18,
+        "geometric__area": 28.0,
+        "geometric__volume": 14.43,
+        "geometric__multi_view": 15.09,
+        "topological__hop_distance": 17.02,
+        "topological__cycle_length": 24.49,
+        "topological__multi_view": 19.79
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "InternVL3.5-2B",
+      "paramsB": 2.0,
+      "releaseDate": null,
+      "average": 11.1,
+      "scores": {
+        "geometric__ground_height": 4.76,
+        "geometric__ground_angle": 3.96,
+        "geometric__dimension": 11.0,
+        "geometric__relative_distance": 22.33,
+        "geometric__area": 25.0,
+        "geometric__volume": 17.53,
+        "geometric__multi_view": 4.72,
+        "topological__hop_distance": 11.7,
+        "topological__cycle_length": 10.2,
+        "topological__multi_view": 0.0
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Llama-4-Scout-17B-16E",
+      "paramsB": 109.0,
+      "releaseDate": "2025-04-01",
+      "average": 20.6,
+      "scores": {
+        "geometric__ground_height": 9.52,
+        "geometric__ground_angle": 19.8,
+        "geometric__dimension": 17.0,
+        "geometric__relative_distance": 20.39,
+        "geometric__area": 29.0,
+        "geometric__volume": 16.49,
+        "geometric__multi_view": 21.7,
+        "topological__hop_distance": 21.28,
+        "topological__cycle_length": 23.47,
+        "topological__multi_view": 28.13
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Gemma-3-27B",
+      "paramsB": 27.0,
+      "releaseDate": "2025-03-01",
+      "average": 20.5,
+      "scores": {
+        "geometric__ground_height": 7.62,
+        "geometric__ground_angle": 7.92,
+        "geometric__dimension": 10.0,
+        "geometric__relative_distance": 26.21,
+        "geometric__area": 33.0,
+        "geometric__volume": 16.49,
+        "geometric__multi_view": 22.64,
+        "topological__hop_distance": 26.6,
+        "topological__cycle_length": 28.57,
+        "topological__multi_view": 27.08
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Gemma-3-12B",
+      "paramsB": 12.0,
+      "releaseDate": null,
+      "average": 17.3,
+      "scores": {
+        "geometric__ground_height": 8.57,
+        "geometric__ground_angle": 4.95,
+        "geometric__dimension": 8.0,
+        "geometric__relative_distance": 16.5,
+        "geometric__area": 18.0,
+        "geometric__volume": 17.53,
+        "geometric__multi_view": 22.64,
+        "topological__hop_distance": 19.15,
+        "topological__cycle_length": 29.59,
+        "topological__multi_view": 29.17
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "Gemma-3-4B",
+      "paramsB": 4.0,
+      "releaseDate": null,
+      "average": 19.7,
+      "scores": {
+        "geometric__ground_height": 6.67,
+        "geometric__ground_angle": 6.93,
+        "geometric__dimension": 12.0,
+        "geometric__relative_distance": 22.33,
+        "geometric__area": 32.0,
+        "geometric__volume": 18.56,
+        "geometric__multi_view": 23.58,
+        "topological__hop_distance": 26.6,
+        "topological__cycle_length": 29.59,
+        "topological__multi_view": 19.79
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "LLaVA-Onevision-72B",
+      "paramsB": 73.0,
+      "releaseDate": "2024-08-01",
+      "average": 17.2,
+      "scores": {
+        "geometric__ground_height": 4.76,
+        "geometric__ground_angle": 6.93,
+        "geometric__dimension": 4.0,
+        "geometric__relative_distance": 20.39,
+        "geometric__area": 31.0,
+        "geometric__volume": 16.49,
+        "geometric__multi_view": 23.58,
+        "topological__hop_distance": 19.15,
+        "topological__cycle_length": 23.47,
+        "topological__multi_view": 22.92
+      }
+    },
+    {
+      "group": "Open-source",
+      "model": "LLaVA-Onevision-7B",
+      "paramsB": 8.0,
+      "releaseDate": null,
+      "average": 16.5,
+      "scores": {
+        "geometric__ground_height": 9.52,
+        "geometric__ground_angle": 5.94,
+        "geometric__dimension": 3.0,
+        "geometric__relative_distance": 19.42,
+        "geometric__area": 19.0,
+        "geometric__volume": 19.59,
+        "geometric__multi_view": 24.53,
+        "topological__hop_distance": 23.4,
+        "topological__cycle_length": 22.45,
+        "topological__multi_view": 18.75
+      }
+    },
+    {
+      "group": "Baseline",
+      "model": "Random Guessing",
+      "paramsB": null,
+      "releaseDate": "\\",
+      "average": 12.85,
+      "scores": {
+        "geometric__ground_height": 4.17,
+        "geometric__ground_angle": 4.17,
+        "geometric__dimension": 4.17,
+        "geometric__relative_distance": 16.67,
+        "geometric__area": 16.67,
+        "geometric__volume": 16.67,
+        "geometric__multi_view": 16.67,
+        "topological__hop_distance": 16.67,
+        "topological__cycle_length": 16.67,
+        "topological__multi_view": 16.67
+      }
+    },
+    {
+      "group": "Baseline",
+      "model": "Human Performance",
+      "paramsB": null,
+      "releaseDate": "\\",
+      "average": 91.6,
+      "scores": {
+        "geometric__ground_height": 94.29,
+        "geometric__ground_angle": 91.09,
+        "geometric__dimension": 92.0,
+        "geometric__relative_distance": 93.2,
+        "geometric__area": 98.0,
+        "geometric__volume": 91.75,
+        "geometric__multi_view": 89.62,
+        "topological__hop_distance": 92.55,
+        "topological__cycle_length": 89.8,
+        "topological__multi_view": 83.33
+      }
+    }
+  ]
+}

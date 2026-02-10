@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-01-09T11:42:36.250071+00:00",
+  "answer": [
+    3,
+    1,
+    2,
+    4
+  ],
+  "optionToOriginalMember": [
+    2,
+    3,
+    1,
+    4
+  ],
+  "source": {
+    "labelStudioTaskId": 487
+  },
+  "taxonomy": {
+    "categorySlug": "geometric",
+    "taskSlug": "dimension",
+    "scene": "bridge"
+  },
+  "render": {
+    "prefix": "Member",
+    "position": "mu",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "red",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0,
+    "beautify": false,
+    "beautifyAreaScale": 1.0
+  }
+}

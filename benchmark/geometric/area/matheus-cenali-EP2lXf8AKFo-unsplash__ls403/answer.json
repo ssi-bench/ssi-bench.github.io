@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2025-12-30T17:33:10.781448+00:00",
+  "answer": [
+    2,
+    3,
+    1
+  ],
+  "optionToOriginalMember": [
+    3,
+    1,
+    2
+  ],
+  "source": {
+    "labelStudioTaskId": 403
+  },
+  "taxonomy": {
+    "categorySlug": "geometric",
+    "taskSlug": "area",
+    "scene": "steel"
+  },
+  "render": {
+    "prefix": "Group",
+    "position": "mu",
+    "fontSize": 128,
+    "fontColor": "red",
+    "strokeColor": "white",
+    "strokeWidth": 0,
+    "padding": 20,
+    "fillColor": "cyan",
+    "fillAlpha": 255,
+    "outlineColor": "black",
+    "outlineWidth": 0,
+    "beautify": true
+  }
+}

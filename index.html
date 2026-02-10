@@ -1,0 +1,433 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Thinking in Structures: Evaluating Spatial Intelligence through Reasoning on Constrained Manifolds</title>
+    <link rel="icon" type="image/png" href="assets/logo.png" />
+    <link rel="shortcut icon" type="image/png" href="assets/logo.png" />
+    <link rel="apple-touch-icon" href="assets/logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="nav">
+      <div class="container nav__inner">
+        <a class="nav__brand" href="./" aria-label="SSI-Bench">
+          <img class="nav__logo" src="assets/logo.png" alt="" />
+          <span class="nav__brandText">SSI-Bench</span>
+        </a>
+        <nav class="nav__links">
+          <a href="#dataset">Dataset</a>
+          <a href="#leaderboard">Leaderboard</a>
+          <a href="#analysis">Analysis</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" id="top">
+        <div class="container hero__inner hero__inner--center">
+          <div class="hero__copy">
+            <h1 class="hero__title hero__title--withLogo">
+              <img class="hero__titleLogo" src="assets/logo.png" alt="" />
+              <span>Thinking in Structures: Evaluating Spatial Intelligence through Reasoning on Constrained Manifolds</span>
+            </h1>
+            <p class="hero__subtitle hero__subtitle--lede">
+              <em
+                >We introduce <strong>SSI-Bench</strong>, constructed from <strong>complex real-world 3D structures</strong> with feasible configurations tightly governed by
+                <strong>geometric, topological, and physical constraints</strong>.</em
+              >
+            </p>
+            <p class="hero__subtitle hero__subtitle--author">
+              <a class="author author--link" href="https://ccyydd.github.io/" target="_blank" rel="noopener noreferrer">Chen Yang</a>,
+              <span class="author author--nolink">Guanxin Lin</span>,
+              <span class="author author--nolink">Youquan He</span>, <span class="author author--nolink">Peiyao Chen</span>,
+              <span class="author author--nolink">Guanghe Liu</span>, <span class="author author--nolink">Yufan Mo</span>,
+              <span class="author author--nolink">Zhouyuan Xu</span>,
+              <a class="author author--link" href="https://3010058458.github.io/wanglinhao/" target="_blank" rel="noopener noreferrer"
+                >Linhao Wang</a>, <span class="author author--nolink">Guohui Zhang</span>, <span class="author author--nolink">Zihang Zhang</span>,
+              <a
+                class="author author--link"
+                href="https://orcid.org/0009-0001-8157-8757"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Shenxiang Zeng</a
+              >,
+              <a
+                class="author author--link author--corresponding"
+                href="https://www.civil.tsinghua.edu.cn/ce/info/1134/2436.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Chen Wang</a>,
+              <a
+                class="author author--link author--corresponding"
+                href="https://www.civil.tsinghua.edu.cn/ce/info/1130/1786.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Jiansheng Fan</a>
+            </p>
+            <p class="hero__subtitle hero__subtitle--affil hero__subtitle--tight">Tsinghua University</p>
+            <div class="hero__resources" aria-label="Resources">
+              <a class="heroResource" href="https://arxiv.org/pdf/2602.07864" target="_blank" rel="noopener noreferrer" aria-label="Paper">
+                <img class="heroResource__icon heroResource__icon--img" src="assets/paper.svg" alt="" aria-hidden="true" />
+                <span>Paper</span>
+              </a>
+              <a class="heroResource" href="https://huggingface.co/datasets/cyang203912/SSI-Bench" target="_blank" rel="noopener noreferrer">
+                <svg class="heroResource__icon heroResource__icon--dataset" viewBox="0 0 24 24" aria-hidden="true">
+                  <path
+                    d="M5 7c0-2.2 3.1-4 7-4s7 1.8 7 4-3.1 4-7 4-7-1.8-7-4Z"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.8"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M5 7v10c0 2.2 3.1 4 7 4s7-1.8 7-4V7"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.8"
+                    stroke-linejoin="round"
+                  />
+                  <path d="M5 12c0 2.2 3.1 4 7 4s7-1.8 7-4" fill="none" stroke="currentColor" stroke-width="1.8" />
+                </svg>
+                <span>Dataset</span>
+              </a>
+              <a class="heroResource" href="https://github.com/ccyydd/SSI-Bench" target="_blank" rel="noopener noreferrer">
+                <svg class="heroResource__icon" viewBox="0 0 16 16" aria-hidden="true">
+                  <path
+                    fill="currentColor"
+                    d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"
+                  />
+                </svg>
+                <span>GitHub</span>
+              </a>
+              <a class="heroResource" href="https://arxiv.org/abs/2602.07864" target="_blank" rel="noopener noreferrer" aria-label="arXiv">
+                <img class="heroResource__icon heroResource__icon--img" src="assets/arxiv.svg" alt="" aria-hidden="true" />
+                <span>arXiv</span>
+              </a>
+            </div>
+            <figure class="hero__teaser" aria-label="Teaser figure">
+              <img class="hero__teaserImg" src="assets/teaser.jpg" alt="SSI-Bench teaser" loading="lazy" />
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="dataset">
+        <div class="container">
+          <div class="section__header">
+            <h2>Dataset</h2>
+            <p class="muted">Explore the CMSR task taxonomy and dataset composition, browse samples in the interactive viewer, and see how SSI-Bench is constructed.</p>
+          </div>
+
+          <section class="subsection" id="overview">
+            <div class="subsection__header">
+              <h3>Overview</h3>
+            </div>
+            <div class="panel">
+              <div class="overviewGrid">
+                <figure class="overviewFigure">
+                  <img class="overviewFigure__img" src="assets/overview.png" alt="Taxonomy of CMSR tasks in SSI-Bench" loading="lazy" />
+                  <figcaption class="muted">
+                    Taxonomy of <em>Constrained-Manifold Spatial Reasoning</em> (CMSR) tasks in SSI-Bench (1,000 samples; 1,160 unique
+                    images; average template prompt length 2,062 characters). <span class="nowrap">#UI</span>: number of unique images;
+                    <span class="nowrap">#TPL</span>: template prompt length (characters, including spaces and punctuation).
+                  </figcaption>
+                </figure>
+                <figure class="overviewFigure overviewFigure--center">
+                  <img class="overviewFigure__img overviewFigure__img--pie" src="assets/pie_chart.png" alt="Dataset composition pie chart" loading="lazy" />
+                  <figcaption class="muted">Distribution of categories in SSI-Bench.</figcaption>
+                </figure>
+              </div>
+            </div>
+          </section>
+
+          <section class="subsection" id="viewer">
+            <div class="subsection__header">
+              <h3>Dataset Viewer</h3>
+              <p class="muted"></p>
+            </div>
+
+            <div class="panel">
+              <div class="controls controls--compact">
+                <div class="control">
+                  <label for="categorySelect">Category</label>
+                  <select id="categorySelect"></select>
+                </div>
+                <div class="control">
+                  <label for="taskSelect">Task</label>
+                  <select id="taskSelect"></select>
+                </div>
+              </div>
+
+              <div class="toolbar toolbar--compact">
+                <div class="toolbar__left">
+                  <button class="button button--ghost" id="prevBtn" type="button">Prev</button>
+                  <button class="button button--ghost" id="nextBtn" type="button">Next</button>
+                  <button class="button button--ghost" id="randomBtn" type="button">Random</button>
+                </div>
+                <div class="toolbar__right">
+                  <div class="meta" id="counter"></div>
+                </div>
+              </div>
+
+              <div class="promptBox" aria-label="Question">
+                <div class="promptBox__header">
+                  <div class="promptBox__title">Question</div>
+                  <div class="promptBox__actions">
+                    <button class="button button--ghost" id="copyPromptBtn" type="button">Copy</button>
+                  </div>
+                </div>
+                <pre class="promptBox__body" id="promptText"></pre>
+              </div>
+
+              <div class="grid">
+                <div class="card">
+                  <div class="card__title">Original</div>
+                  <div class="imgWrap imgWrap--originals">
+                    <img id="originalImg" alt="original view 1" />
+                    <img id="originalImg2" alt="original view 2" hidden />
+                  </div>
+                </div>
+                <div class="card card--options">
+                  <div class="card__title">Candidates</div>
+                  <div class="refBox" id="referenceBox" hidden>
+                    <div class="imgWrap imgWrap--option">
+                      <span class="imgWrap__badge imgWrap__badge--always">#0</span>
+                      <img id="referenceImg" alt="member 0" />
+                    </div>
+                  </div>
+                  <div class="options options--twoCol" id="optionsGrid"></div>
+                </div>
+              </div>
+
+              <div class="answer">
+                <div class="answer__row">
+                  <div class="control control--grow">
+                    <label for="answerInput">Your answer (ranking)</label>
+                    <input id="answerInput" type="text" placeholder="e.g. 3 4 1 2" />
+                  </div>
+                  <div class="answer__buttons">
+                    <button class="button button--primary" id="checkBtn" type="button">Check</button>
+                    <button class="button button--ghost" id="revealBtn" type="button">Reveal</button>
+                    <button class="button button--ghost" id="clearBtn" type="button">Clear</button>
+                  </div>
+                </div>
+                <div class="answer__row answer__row--compact">
+                  <div class="chips" id="clickSequence"></div>
+                </div>
+                <div class="result" id="result"></div>
+              </div>
+            </div>
+          </section>
+
+          <section class="subsection" id="pipeline">
+            <div class="subsection__header">
+              <h3>Construction Pipeline</h3>
+            </div>
+            <div class="panel">
+              <figure class="pipelineFigure">
+                <img class="pipelineFigure__img" src="assets/construction.jpg" alt="Construction pipeline" loading="lazy" />
+              </figure>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section class="section" id="leaderboard">
+        <div class="container">
+          <div class="section__header">
+            <h2>Leaderboard</h2>
+            <p class="muted">
+              Performance comparison of different models on SSI-Bench.
+              Dark highlighting indicates the best result within each category, light highlighting denotes the second-best.
+            </p>
+          </div>
+
+          <div class="panel">
+            <div class="leaderboardTabs" role="tablist" aria-label="Leaderboard metric">
+              <button class="leaderboardTab isActive" type="button" role="tab" aria-selected="true" data-board="task">
+                Task Accuracy
+              </button>
+              <button class="leaderboardTab" type="button" role="tab" aria-selected="false" data-board="pairwise">
+                Pairwise Accuracy
+              </button>
+            </div>
+
+            <div class="leaderboardHint muted">Click on column headers to sort the results</div>
+            <div class="leaderboardLegend" aria-label="Leaderboard legend">
+              <div class="leaderboardLegend__item">
+                <span class="leaderboardLegend__swatch leaderboardLegend__swatch--proprietary" aria-hidden="true"></span>
+                <span>Proprietary</span>
+              </div>
+              <div class="leaderboardLegend__item">
+                <span class="leaderboardLegend__swatch leaderboardLegend__swatch--open" aria-hidden="true"></span>
+                <span>Open-Source</span>
+              </div>
+              <div class="leaderboardLegend__item">
+                <span class="leaderboardLegend__swatch leaderboardLegend__swatch--baseline" aria-hidden="true"></span>
+                <span>Baseline</span>
+              </div>
+            </div>
+            <div class="meta leaderboardMeta" id="leaderboardMeta"></div>
+            <div class="tableWrap" id="leaderboardTableWrap">
+              <div class="meta">Loading leaderboard…</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="analysis">
+        <div class="container">
+          <div class="section__header">
+            <h2>Analysis</h2>
+            <p class="muted">
+              Key results, thinking impact, and representative failure modes on <strong>CMSR</strong>—highlighting where current
+              <strong>VLMs</strong> succeed, where they fail, and what is still missing for constraint-consistent 3D reasoning.
+            </p>
+          </div>
+
+          <section class="subsection" id="analysis-main">
+            <div class="subsection__header">
+              <h3>Key Results</h3>
+            </div>
+            <div class="panel">
+              <div class="analysisText muted">
+                Results are reported in terms of <strong>taskwise accuracy</strong> and <strong>pairwise accuracy</strong> on <strong>SSI-Bench</strong>. Compared with prior spatial benchmarks in
+                largely unconstrained settings, accuracies are substantially lower, suggesting that <strong>constrained-manifold</strong> reasoning is
+                harder and less amenable to <strong>2D shortcut cues</strong>.
+              </div>
+              <div class="analysisCards">
+                <div class="analysisCard">
+                  <div class="analysisCard__title">Constrained-manifold spatial reasoning remains hard</div>
+                  <div class="analysisCard__body muted">
+                    Even strong <strong>VLMs</strong> are far from <strong>human</strong> performance on SSI-Bench: the best model reaches
+                    <strong>33.60%</strong> average taskwise accuracy, while humans achieve
+                    <strong>91.60%</strong>. The random-ranking baseline is <strong>12.85%</strong>.
+                  </div>
+                </div>
+                <div class="analysisCard">
+                  <div class="analysisCard__title">Advanced open-source models still trail proprietary
+                    counterparts</div>
+                  <div class="analysisCard__body muted">
+                    A consistent gap separates <strong>open-source</strong> and <strong>proprietary</strong> models across geometric and
+                    topological tasks. <strong>Proprietary</strong> systems lead the leaderboard (~<strong>30%</strong>), while top
+                    <strong>open-weight</strong> models stay around ~<strong>20%</strong>.
+                  </div>
+                </div>
+                <div class="analysisCard">
+                  <div class="analysisCard__title">Progress is incremental; scaling is inconsistent</div>
+                  <div class="analysisCard__body muted">
+                    Performance improves over time across major lineages, but gains are uneven and often modest (e.g., <strong>Gemini-2.5</strong> →
+                    <strong>Gemini-3</strong>). Within-family <strong>scaling</strong> yields limited gains (e.g., <strong>Qwen3-VL</strong>:
+                    <strong>19.20%</strong> → <strong>21.90%</strong>).
+                  </div>
+                </div>
+              </div>
+              <div class="analysisText muted" style="margin-top: 12px">
+                Examples from the leaderboard: <strong>Gemini-3-Flash</strong> (33.60%) and <strong>Gemini-3-Pro</strong> (29.50%) lead the proprietary
+                group, while <strong>GLM-4.6V</strong> (22.20%) and <strong>Qwen3-VL-235B-A22B</strong> (21.90%) are among the strongest open models.
+                Overall performance indicates that CMSR remains <strong>broadly unsolved</strong>.
+              </div>
+            </div>
+          </section>
+
+          <section class="subsection" id="analysis-thinking">
+            <div class="subsection__header">
+              <h3>Impact of Thinking on CMSR</h3>
+            </div>
+            <div class="panel">
+              <div class="analysisText muted" style="margin-bottom: 12px">
+                We compare matched settings under the same evaluation protocol: <strong>Gemini-3-Pro</strong> with two thinking levels
+                (<strong>high</strong> vs. <strong>low</strong>) and <strong>Qwen3-VL-30B-A3B</strong> with two variants (<strong>Thinking</strong> vs.
+                <strong>Instruct</strong>) on the full benchmark.
+              </div>
+              <figure class="analysisFigure analysisFigure--full">
+                <img
+                  class="analysisFigure__img"
+                  src="assets/think_analysis.jpg"
+                  alt="Relationship between thinking-token usage and accuracy, and sub-category level effects of thinking on CMSR."
+                  loading="lazy"
+                />
+                <figcaption class="muted">
+                  <em>Left:</em> thinking-token usage vs. accuracy. <em>Right:</em> sub-category effects of thinking on <strong>CMSR</strong>.
+                </figcaption>
+              </figure>
+              <div class="analysisText muted">
+                <ul class="analysisList">
+                  <li><strong>Modest gains:</strong> <strong>Gemini-3-Pro</strong> improves from <strong>27.1%</strong> (low) to <strong>29.5%</strong> (high);
+                    <strong>Qwen3-VL-30B-A3B</strong> improves from <strong>20.6%</strong> (Instruct) to <strong>22.5%</strong> (Thinking).</li>
+                  <li><strong>Token usage is a weak proxy:</strong> accuracy is <strong>non-monotonic</strong> and often peaks at moderate usage, where extra
+                    tokens can reflect <strong>uncertainty</strong> rather than better inference. Very high usage can correspond to longer deliberation over
+                    an <strong>incorrect structural hypothesis</strong>.</li>
+                  <li><strong>Task-dependent effects:</strong> thinking helps more when evidence is stable, but can be mixed or negative on
+                    <strong>3D-consistency</strong> bottlenecks (e.g., <strong>Multi-View</strong> and <strong>Volume</strong>).</li>
+                </ul>
+                <div class="muted">
+                  Takeaway: thinking provides <strong>incremental</strong> benefits, but doesn't resolve dominant failure modes that require
+                  stable <strong>3D grounding</strong> and <strong>cross-view correspondence</strong>.
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="subsection" id="analysis-errors">
+            <div class="subsection__header">
+              <h3>Error Analysis</h3>
+            </div>
+            <div class="panel">
+              <div class="analysisText muted" style="margin-bottom: 12px">
+                To diagnose bottlenecks, we manually inspect sampled questions with <strong>Gemini-3-Pro</strong> as a
+                representative model, using its reasoning traces to categorize failures.
+              </div>
+              <figure class="analysisFigure analysisFigure--full">
+                <img
+                  class="analysisFigure__img analysisFigure__img--noRadius"
+                  src="assets/error_analysis.jpg"
+                  alt="Illustration of four common error types on SSI-Bench."
+                  loading="lazy"
+                />
+                <figcaption class="muted">Representative error types in VLM spatial reasoning on <strong>SSI-Bench</strong>.</figcaption>
+              </figure>
+              <div class="analysisText muted">
+                <ul class="analysisList">
+                  <li><strong>Member-extent:</strong> over-/under-extending members under <strong>occlusion</strong> and <strong>clutter</strong>, breaking endpoint-based comparisons.</li>
+                  <li><strong>Object recognition:</strong> misidentifying components/nodes and coarse orientations, hurting criteria like <strong>Ground Angle</strong>.</li>
+                  <li><strong>Computation & logic:</strong> optimizing the wrong quantity (e.g., <strong>2D area</strong> vs. <strong>3D volume</strong>) or applying invalid simplifications.</li>
+                  <li><strong>3D spatial logic:</strong> weak <strong>depth</strong> and <strong>cross-view correspondence</strong>; unstable relational composition in <strong>Multi-View</strong> settings.</li>
+                </ul>
+                <div class="muted">
+                  Overall, the performance gap reflects both imperfect <strong>visual grounding</strong> and limitations in <strong>globally consistent 3D
+                  reconstruction</strong> under manifold constraints—core capabilities for CMSR.
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="footer">
+      <div class="container footer__inner">
+        <div class="muted">SSI-Bench</div>
+        <a class="muted" href="#top">Back to top</a>
+      </div>
+    </footer>
+
+    <div class="lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-label="Image preview">
+      <button class="lightbox__close" id="lightboxClose" type="button" aria-label="Close">×</button>
+      <div class="lightbox__inner">
+        <img class="lightbox__img" id="lightboxImg" alt="preview" />
+      </div>
+    </div>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
