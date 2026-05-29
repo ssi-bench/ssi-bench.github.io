@@ -222,7 +222,7 @@ a {
 .hero__title {
   width: 100%;
   max-width: none;
-  margin: 0 auto 18px;
+  margin: 0 auto 48px;
   font-family: var(--display);
   font-weight: 800;
   letter-spacing: -0.02em;
