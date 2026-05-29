@@ -13,7 +13,9 @@
     4
   ],
   "source": {
-    "labelStudioTaskId": 224
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\steel\\project-1-at-2025-12-27-20-36-3a1ff0cc.json",
+    "labelStudioTaskId": 224,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\steel\\pexels-muharrem-alper-428087426-35158315.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

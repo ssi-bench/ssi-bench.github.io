@@ -21,7 +21,12 @@
     ]
   ],
   "source": {
-    "labelStudioTaskId": 1109
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\multi_view\\project-11-at-2026-01-11-16-18-cf3d1cf0.json",
+    "labelStudioTaskId": 1109,
+    "image1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413\\pexels-hasanryhme-384725320-32362882.jpg",
+    "image2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413\\pexels-pierre-blache-651604-32480413.jpg",
+    "original1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413\\pexels-hasanryhme-384725320-32362882.jpg",
+    "original2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_pexels-hasanryhme-384725320-32362882_pexels-pierre-blache-651604-32480413\\pexels-pierre-blache-651604-32480413.jpg"
   },
   "taxonomy": {
     "categorySlug": "topological",

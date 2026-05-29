@@ -11,7 +11,9 @@
     3
   ],
   "source": {
-    "labelStudioTaskId": 237
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\steel\\project-1-at-2026-01-09-11-33-d2c31ed6.json",
+    "labelStudioTaskId": 237,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\steel\\architecture-1165070_1920.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

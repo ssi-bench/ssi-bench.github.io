@@ -11,7 +11,9 @@
     1
   ],
   "source": {
-    "labelStudioTaskId": 111
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\steel\\project-1-at-2026-01-09-11-33-d2c31ed6.json",
+    "labelStudioTaskId": 111,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\steel\\pexels-gokhanbaytekin-16206172.jpg"
   },
   "taxonomy": {
     "categorySlug": "topological",

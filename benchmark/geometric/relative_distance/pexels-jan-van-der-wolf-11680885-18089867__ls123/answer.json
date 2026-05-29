@@ -11,7 +11,9 @@
     3
   ],
   "source": {
-    "labelStudioTaskId": 123
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\steel\\project-1-at-2026-01-09-11-33-d2c31ed6.json",
+    "labelStudioTaskId": 123,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\steel\\pexels-jan-van-der-wolf-11680885-18089867.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

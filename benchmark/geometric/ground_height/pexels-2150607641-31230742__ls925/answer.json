@@ -13,7 +13,9 @@
     2
   ],
   "source": {
-    "labelStudioTaskId": 925
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\pipeline\\project-7-at-2026-01-09-11-36-fbb2bb39.json",
+    "labelStudioTaskId": 925,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\pipeline\\pexels-2150607641-31230742.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

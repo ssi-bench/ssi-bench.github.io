@@ -11,7 +11,9 @@
     3
   ],
   "source": {
-    "labelStudioTaskId": 734
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\timber\\project-10-at-2026-01-09-11-38-0a9cbb21.json",
+    "labelStudioTaskId": 734,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\timber\\christian-bass-tgTm7J0yqb4-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "topological",

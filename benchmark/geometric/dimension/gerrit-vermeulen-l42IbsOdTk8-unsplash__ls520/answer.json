@@ -14,7 +14,9 @@
   ],
   "memberEqualities": [],
   "source": {
-    "labelStudioTaskId": 520
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\bridge\\project-5-at-2026-01-12-13-49-20194784.json",
+    "labelStudioTaskId": 520,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\bridge\\gerrit-vermeulen-l42IbsOdTk8-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

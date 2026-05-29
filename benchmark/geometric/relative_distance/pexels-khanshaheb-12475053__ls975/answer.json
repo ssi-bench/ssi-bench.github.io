@@ -11,7 +11,9 @@
     1
   ],
   "source": {
-    "labelStudioTaskId": 975
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\rebar\\project-9-at-2026-01-09-11-37-fc5c55f7.json",
+    "labelStudioTaskId": 975,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\rebar\\pexels-khanshaheb-12475053.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

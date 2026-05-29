@@ -12,7 +12,12 @@
   ],
   "memberEqualities": [],
   "source": {
-    "labelStudioTaskId": 1118
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\multi_view\\project-11-at-2026-01-11-14-34-831f5dcd.json",
+    "labelStudioTaskId": 1118,
+    "image1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332\\paris-674964_1920.jpg",
+    "image2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332\\pexels-olivia-fernandez-sosa-3216244-31261332.jpg",
+    "original1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332\\paris-674964_1920.jpg",
+    "original2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_paris-674964_1920_pexels-olivia-fernandez-sosa-3216244-31261332\\pexels-olivia-fernandez-sosa-3216244-31261332.jpg"
   },
   "taxonomy": {
     "categorySlug": "topological",

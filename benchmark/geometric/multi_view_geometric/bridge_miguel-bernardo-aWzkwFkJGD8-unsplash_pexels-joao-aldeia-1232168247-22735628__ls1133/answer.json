@@ -17,7 +17,12 @@
     ]
   ],
   "source": {
-    "labelStudioTaskId": 1133
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\multi_view\\project-11-at-2026-01-12-13-48-3a887159.json",
+    "labelStudioTaskId": 1133,
+    "image1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628\\miguel-bernardo-aWzkwFkJGD8-unsplash.jpg",
+    "image2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628\\pexels-joao-aldeia-1232168247-22735628.jpg",
+    "original1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628\\miguel-bernardo-aWzkwFkJGD8-unsplash.jpg",
+    "original2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\bridge_miguel-bernardo-aWzkwFkJGD8-unsplash_pexels-joao-aldeia-1232168247-22735628\\pexels-joao-aldeia-1232168247-22735628.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

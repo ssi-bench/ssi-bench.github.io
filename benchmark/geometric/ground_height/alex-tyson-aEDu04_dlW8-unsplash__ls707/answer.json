@@ -13,7 +13,9 @@
     3
   ],
   "source": {
-    "labelStudioTaskId": 707
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\timber\\project-10-at-2026-01-09-11-38-0a9cbb21.json",
+    "labelStudioTaskId": 707,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\timber\\alex-tyson-aEDu04_dlW8-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

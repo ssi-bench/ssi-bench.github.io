@@ -19,7 +19,9 @@
     ]
   ],
   "source": {
-    "labelStudioTaskId": 865
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\timber\\project-10-at-2026-01-12-00-56-66522858.json",
+    "labelStudioTaskId": 865,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\timber\\post-2232962_1920.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

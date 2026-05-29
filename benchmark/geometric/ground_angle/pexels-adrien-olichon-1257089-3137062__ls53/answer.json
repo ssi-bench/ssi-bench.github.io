@@ -13,7 +13,9 @@
     3
   ],
   "source": {
-    "labelStudioTaskId": 53
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\steel\\project-1-at-2026-01-09-11-33-d2c31ed6.json",
+    "labelStudioTaskId": 53,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\steel\\pexels-adrien-olichon-1257089-3137062.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

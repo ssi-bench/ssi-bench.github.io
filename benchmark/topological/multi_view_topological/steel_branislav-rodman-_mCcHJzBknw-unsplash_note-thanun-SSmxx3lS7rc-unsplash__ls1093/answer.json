@@ -12,7 +12,12 @@
   ],
   "memberEqualities": [],
   "source": {
-    "labelStudioTaskId": 1093
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\multi_view\\project-11-at-2026-01-11-14-34-831f5dcd.json",
+    "labelStudioTaskId": 1093,
+    "image1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash\\branislav-rodman-_mCcHJzBknw-unsplash.jpg",
+    "image2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash\\note-thanun-SSmxx3lS7rc-unsplash.jpg",
+    "original1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash\\branislav-rodman-_mCcHJzBknw-unsplash.jpg",
+    "original2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_branislav-rodman-_mCcHJzBknw-unsplash_note-thanun-SSmxx3lS7rc-unsplash\\note-thanun-SSmxx3lS7rc-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "topological",

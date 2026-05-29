@@ -13,7 +13,9 @@
     4
   ],
   "source": {
-    "labelStudioTaskId": 910
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\pipeline\\project-7-at-2026-01-12-00-55-cb1301df.json",
+    "labelStudioTaskId": 910,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\pipeline\\christian-keybets-QcmYZnRdKfo-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

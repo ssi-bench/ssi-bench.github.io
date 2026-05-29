@@ -11,7 +11,9 @@
     1
   ],
   "source": {
-    "labelStudioTaskId": 276
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\steel\\project-1-at-2026-01-09-11-33-d2c31ed6.json",
+    "labelStudioTaskId": 276,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\steel\\luca-upper-uQR1eEZBMYY-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

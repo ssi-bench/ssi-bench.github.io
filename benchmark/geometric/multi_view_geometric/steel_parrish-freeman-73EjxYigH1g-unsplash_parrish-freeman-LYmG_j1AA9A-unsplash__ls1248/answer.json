@@ -12,7 +12,12 @@
   ],
   "memberEqualities": [],
   "source": {
-    "labelStudioTaskId": 1248
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\multi_view\\project-11-at-2026-01-12-13-48-3a887159.json",
+    "labelStudioTaskId": 1248,
+    "image1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash\\parrish-freeman-73EjxYigH1g-unsplash.jpg",
+    "image2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash\\parrish-freeman-LYmG_j1AA9A-unsplash.jpg",
+    "original1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash\\parrish-freeman-73EjxYigH1g-unsplash.jpg",
+    "original2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_parrish-freeman-73EjxYigH1g-unsplash_parrish-freeman-LYmG_j1AA9A-unsplash\\parrish-freeman-LYmG_j1AA9A-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

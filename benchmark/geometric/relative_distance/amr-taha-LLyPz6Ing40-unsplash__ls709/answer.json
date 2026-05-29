@@ -11,7 +11,9 @@
     3
   ],
   "source": {
-    "labelStudioTaskId": 709
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\timber\\project-10-at-2026-01-09-11-38-0a9cbb21.json",
+    "labelStudioTaskId": 709,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\timber\\amr-taha-LLyPz6Ing40-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

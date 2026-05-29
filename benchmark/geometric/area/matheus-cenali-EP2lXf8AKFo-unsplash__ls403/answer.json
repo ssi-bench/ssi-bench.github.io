@@ -11,7 +11,9 @@
     2
   ],
   "source": {
-    "labelStudioTaskId": 403
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\steel\\project-1-at-2025-12-27-20-36-3a1ff0cc.json",
+    "labelStudioTaskId": 403,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\steel\\matheus-cenali-EP2lXf8AKFo-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

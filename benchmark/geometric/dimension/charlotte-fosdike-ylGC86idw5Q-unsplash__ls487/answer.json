@@ -13,7 +13,9 @@
     4
   ],
   "source": {
-    "labelStudioTaskId": 487
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\bridge\\project-5-at-2026-01-09-11-35-f802cd94.json",
+    "labelStudioTaskId": 487,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\bridge\\charlotte-fosdike-ylGC86idw5Q-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

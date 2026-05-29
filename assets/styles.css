@@ -170,11 +170,12 @@ a {
 }
 
 .hero__title--withLogo {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   gap: 14px;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 .hero__titleLogo {
@@ -214,15 +215,25 @@ a {
   justify-content: center;
 }
 
+.hero__copy {
+  width: 100%;
+}
+
 .hero__title {
-  max-width: 42ch;
+  width: 100%;
+  max-width: none;
   margin: 0 auto 18px;
   font-family: var(--display);
   font-weight: 800;
   letter-spacing: -0.02em;
   font-size: clamp(26px, 2.8vw, 38px);
   line-height: 1.15;
-  text-wrap: balance;
+  text-wrap: normal;
+}
+
+.hero__titleText {
+  display: block;
+  max-width: 38ch;
 }
 
 .hero__subtitle {
@@ -1310,6 +1321,15 @@ img {
   gap: 10px;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.hero__venue {
+  margin: 0 auto 10px;
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgb(102, 8, 116);
 }
 
 .hero__teaser {

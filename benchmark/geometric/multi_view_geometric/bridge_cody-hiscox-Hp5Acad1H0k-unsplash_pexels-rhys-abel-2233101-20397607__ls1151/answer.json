@@ -12,7 +12,12 @@
   ],
   "memberEqualities": [],
   "source": {
-    "labelStudioTaskId": 1151
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\multi_view\\project-11-at-2026-01-11-14-34-831f5dcd.json",
+    "labelStudioTaskId": 1151,
+    "image1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607\\cody-hiscox-Hp5Acad1H0k-unsplash.jpg",
+    "image2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607\\pexels-rhys-abel-2233101-20397607.jpg",
+    "original1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607\\cody-hiscox-Hp5Acad1H0k-unsplash.jpg",
+    "original2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\bridge_cody-hiscox-Hp5Acad1H0k-unsplash_pexels-rhys-abel-2233101-20397607\\pexels-rhys-abel-2233101-20397607.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

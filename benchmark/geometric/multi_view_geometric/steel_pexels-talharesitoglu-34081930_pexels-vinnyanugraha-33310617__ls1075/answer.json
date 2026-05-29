@@ -17,7 +17,12 @@
     ]
   ],
   "source": {
-    "labelStudioTaskId": 1075
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\multi_view\\project-11-at-2026-01-12-13-48-3a887159.json",
+    "labelStudioTaskId": 1075,
+    "image1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617\\pexels-talharesitoglu-34081930.jpg",
+    "image2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617\\pexels-vinnyanugraha-33310617.jpg",
+    "original1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617\\pexels-talharesitoglu-34081930.jpg",
+    "original2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_pexels-talharesitoglu-34081930_pexels-vinnyanugraha-33310617\\pexels-vinnyanugraha-33310617.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

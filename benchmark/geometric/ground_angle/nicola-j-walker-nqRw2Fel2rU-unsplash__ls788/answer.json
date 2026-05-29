@@ -19,7 +19,9 @@
     ]
   ],
   "source": {
-    "labelStudioTaskId": 788
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\timber\\project-10-at-2026-01-12-13-48-55850ac1.json",
+    "labelStudioTaskId": 788,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\timber\\nicola-j-walker-nqRw2Fel2rU-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Thinking in Structures: Evaluating Spatial Intelligence through Reasoning on Constrained Manifolds</title>
+    <title>Thinking in Structures: Evaluating Spatial Intelligence in Constraint-Governed Spaces</title>
     <link rel="icon" type="image/png" href="assets/logo.png" />
     <link rel="shortcut icon" type="image/png" href="assets/logo.png" />
     <link rel="apple-touch-icon" href="assets/logo.png" />
@@ -36,14 +36,9 @@
           <div class="hero__copy">
             <h1 class="hero__title hero__title--withLogo">
               <img class="hero__titleLogo" src="assets/logo.png" alt="" />
-              <span>Thinking in Structures: Evaluating Spatial Intelligence through Reasoning on Constrained Manifolds</span>
+              <span class="hero__titleText">Thinking in Structures: Evaluating Spatial Intelligence in Constraint-Governed Spaces</span>
             </h1>
-            <p class="hero__subtitle hero__subtitle--lede">
-              <em
-                >We introduce <strong>SSI-Bench</strong>, constructed from <strong>complex real-world 3D structures</strong> with feasible configurations tightly governed by
-                <strong>geometric, topological, and physical constraints</strong>.</em
-              >
-            </p>
+            <p class="hero__subtitle hero__subtitle--lede hero__venue">ICML 2026</p>
             <p class="hero__subtitle hero__subtitle--author">
               <a class="author author--link" href="https://ccyydd.github.io/" target="_blank" rel="noopener noreferrer">Chen Yang</a>,
               <span class="author author--nolink">Guanxin Lin</span>,
@@ -123,7 +118,7 @@
         <div class="container">
           <div class="section__header">
             <h2>Dataset</h2>
-            <p class="muted">Explore the CMSR task taxonomy and dataset composition, browse samples in the interactive viewer, and see how SSI-Bench is constructed.</p>
+            <p class="muted">Explore the SCSR task taxonomy and dataset composition, browse samples in the interactive viewer, and see how SSI-Bench is constructed.</p>
           </div>
 
           <section class="subsection" id="overview">
@@ -133,9 +128,9 @@
             <div class="panel">
               <div class="overviewGrid">
                 <figure class="overviewFigure">
-                  <img class="overviewFigure__img" src="assets/overview.png" alt="Taxonomy of CMSR tasks in SSI-Bench" loading="lazy" />
+                  <img class="overviewFigure__img" src="assets/overview.png" alt="Taxonomy of SCSR tasks in SSI-Bench" loading="lazy" />
                   <figcaption class="muted">
-                    Taxonomy of <em>Constrained-Manifold Spatial Reasoning</em> (CMSR) tasks in SSI-Bench (1,000 samples; 1,160 unique
+                    Taxonomy of <em>Constrained-Manifold Spatial Reasoning</em> (SCSR) tasks in SSI-Bench (1,000 samples; 1,160 unique
                     images; average template prompt length 2,062 characters). <span class="nowrap">#UI</span>: number of unique images;
                     <span class="nowrap">#TPL</span>: template prompt length (characters, including spaces and punctuation).
                   </figcaption>
@@ -288,7 +283,7 @@
           <div class="section__header">
             <h2>Analysis</h2>
             <p class="muted">
-              Key results, thinking impact, and representative failure modes on <strong>CMSR</strong>—highlighting where current
+              Key results, thinking impact, and representative failure modes on <strong>SCSR</strong>—highlighting where current
               <strong>VLMs</strong> succeed, where they fail, and what is still missing for constraint-consistent 3D reasoning.
             </p>
           </div>
@@ -333,14 +328,14 @@
               <div class="analysisText muted" style="margin-top: 12px">
                 Examples from the leaderboard: <strong>Gemini-3-Flash</strong> (33.60%) and <strong>Gemini-3-Pro</strong> (29.50%) lead the proprietary
                 group, while <strong>GLM-4.6V</strong> (22.20%) and <strong>Qwen3-VL-235B-A22B</strong> (21.90%) are among the strongest open models.
-                Overall performance indicates that CMSR remains <strong>broadly unsolved</strong>.
+                Overall performance indicates that SCSR remains <strong>broadly unsolved</strong>.
               </div>
             </div>
           </section>
 
           <section class="subsection" id="analysis-thinking">
             <div class="subsection__header">
-              <h3>Impact of Thinking on CMSR</h3>
+              <h3>Impact of Thinking on SCSR</h3>
             </div>
             <div class="panel">
               <div class="analysisText muted" style="margin-bottom: 12px">
@@ -352,11 +347,11 @@
                 <img
                   class="analysisFigure__img"
                   src="assets/think_analysis.jpg"
-                  alt="Relationship between thinking-token usage and accuracy, and sub-category level effects of thinking on CMSR."
+                  alt="Relationship between thinking-token usage and accuracy, and sub-category level effects of thinking on SCSR."
                   loading="lazy"
                 />
                 <figcaption class="muted">
-                  <em>Left:</em> thinking-token usage vs. accuracy. <em>Right:</em> sub-category effects of thinking on <strong>CMSR</strong>.
+                  <em>Left:</em> thinking-token usage vs. accuracy. <em>Right:</em> sub-category effects of thinking on <strong>SCSR</strong>.
                 </figcaption>
               </figure>
               <div class="analysisText muted">
@@ -404,7 +399,7 @@
                 </ul>
                 <div class="muted">
                   Overall, the performance gap reflects both imperfect <strong>visual grounding</strong> and limitations in <strong>globally consistent 3D
-                  reconstruction</strong> under manifold constraints—core capabilities for CMSR.
+                  reconstruction</strong> under manifold constraints—core capabilities for SCSR.
                 </div>
               </div>
             </div>

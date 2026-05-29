@@ -11,7 +11,9 @@
     2
   ],
   "source": {
-    "labelStudioTaskId": 544
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\bridge\\project-5-at-2026-01-09-11-35-f802cd94.json",
+    "labelStudioTaskId": 544,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\bridge\\london-4395917_1920.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

@@ -12,7 +12,9 @@
   ],
   "memberEqualities": [],
   "source": {
-    "labelStudioTaskId": 337
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\steel\\project-1-at-2026-01-09-11-33-d2c31ed6.json",
+    "labelStudioTaskId": 337,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\steel\\adela-monczkova-Nwfpxalvpgg-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "topological",

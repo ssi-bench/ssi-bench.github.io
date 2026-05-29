@@ -14,7 +14,9 @@
   ],
   "memberEqualities": [],
   "source": {
-    "labelStudioTaskId": 478
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\bridge\\project-5-at-2026-01-10-18-39-a99f0192.json",
+    "labelStudioTaskId": 478,
+    "image": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\bridge\\bridge-4546141_1920.jpg"
   },
   "taxonomy": {
     "categorySlug": "geometric",

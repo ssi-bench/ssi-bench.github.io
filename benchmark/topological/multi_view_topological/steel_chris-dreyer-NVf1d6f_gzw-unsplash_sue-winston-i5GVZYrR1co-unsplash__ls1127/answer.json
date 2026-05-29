@@ -12,7 +12,12 @@
   ],
   "memberEqualities": [],
   "source": {
-    "labelStudioTaskId": 1127
+    "exportFile": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\labeled\\multi_view\\project-11-at-2026-01-11-14-34-831f5dcd.json",
+    "labelStudioTaskId": 1127,
+    "image1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash\\chris-dreyer-NVf1d6f_gzw-unsplash.jpg",
+    "image2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash\\sue-winston-i5GVZYrR1co-unsplash.jpg",
+    "original1": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash\\chris-dreyer-NVf1d6f_gzw-unsplash.jpg",
+    "original2": "D:\\deskstop\\ky\\PureML\\world_model\\spatial_intelligence\\benchmark_ssi\\images\\dataset\\resized\\multi_view\\steel_chris-dreyer-NVf1d6f_gzw-unsplash_sue-winston-i5GVZYrR1co-unsplash\\sue-winston-i5GVZYrR1co-unsplash.jpg"
   },
   "taxonomy": {
     "categorySlug": "topological",
