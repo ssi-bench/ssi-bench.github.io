@@ -207,8 +207,8 @@ a {
 }
 
 .hero__inner--center .hero__titleLogo {
-  height: clamp(86px, 9vw, 120px);
-  filter: drop-shadow(0 16px 40px rgba(25, 18, 36, 0.18));
+  height: clamp(74px, 7.6vw, 104px);
+  filter: drop-shadow(0 12px 28px rgba(25, 18, 36, 0.12));
 }
 
 .hero__inner--center .hero__cta {
@@ -222,18 +222,18 @@ a {
 .hero__title {
   width: 100%;
   max-width: none;
-  margin: 0 auto 48px;
+  margin: 0 auto 14px;
   font-family: var(--display);
-  font-weight: 800;
+  font-weight: 780;
   letter-spacing: -0.02em;
-  font-size: clamp(26px, 2.8vw, 38px);
-  line-height: 1.15;
+  font-size: clamp(28px, 3vw, 42px);
+  line-height: 1.1;
   text-wrap: normal;
 }
 
 .hero__titleText {
   display: block;
-  max-width: 38ch;
+  max-width: 35ch;
 }
 
 .hero__subtitle {
@@ -1279,11 +1279,12 @@ img {
 }
 
 .hero__subtitle--author {
-  max-width: 80ch;
-  margin: 0 auto 14px;
-  font-size: 15px;
-  font-weight: 600;
-  color: rgb(102, 8, 116);
+  max-width: 72ch;
+  margin: 0 auto 18px;
+  font-size: 14px;
+  line-height: 1.9;
+  font-weight: 520;
+  color: rgba(102, 8, 116, 0.78);
   text-wrap: balance;
 }
 
@@ -1309,14 +1310,15 @@ img {
 
 
 .hero__subtitle--affil {
-  margin-bottom: 0;
-  font-size: 16px;
+  margin: 0 auto;
+  font-size: 17px;
   font-weight: 700;
+  letter-spacing: -0.01em;
   color: rgb(102, 8, 116);
 }
 
 .hero__resources {
-  margin-top: 24px;
+  margin-top: 28px;
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
@@ -1324,16 +1326,21 @@ img {
 }
 
 .hero__venue {
-  margin: 0 auto 10px;
-  font-size: 21px;
+  margin: 12px auto 0;
+  padding: 0 0 6px;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  width: fit-content;
+  border-bottom: 1px solid rgba(130, 49, 142, 0.1);
+  font-size: 14px;
   font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  letter-spacing: 0.04em;
   color: rgb(102, 8, 116);
 }
 
 .hero__teaser {
-  margin: 26px auto 0;
+  margin: 38px auto 0;
   width: min(980px, 100%);
 }
 
